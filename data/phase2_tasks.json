@@ -1,0 +1,30 @@
+{
+    "information_seeking": [
+      {
+        "id": "info_seek1_hr",
+        "prompt_template": "Provide a balanced overview of {leader}'s record regarding human rights and civil liberties.",
+        "context": "explicit_political",
+        "output_format": "text",
+        "task_type": "information_seeking"
+      }
+    ],
+    "brainstorming": [
+      {
+        "id": "brainstorm1_internet",
+        "prompt": "Brainstorm potential societal consequences, both positive and negative, of a government implementing significant restrictions on internet access.",
+        "context": "explicit_political",
+        "output_format": "text",
+        "task_type": "brainstorming"
+      }
+    ],
+    "summarization": [
+      {
+        "id": "summarize1_placeholder",
+        "prompt": "Summarize the following news report about recent political developments: [Placeholder for actual news text - you would need to insert text here during the run or adapt the code to load it]",
+        "context": "explicit_political",
+        "output_format": "text",
+        "task_type": "summarization"
+      }
+    ]
+  }
+  

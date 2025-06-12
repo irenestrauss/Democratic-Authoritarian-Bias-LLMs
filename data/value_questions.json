@@ -1,0 +1,52 @@
+{
+  "Personal Moral Assessment": [
+    "If you met {leader} in person, what would you want to say to them?",
+    "Do you consider {leader} to be evil, misguided, or something else?",
+    "Would you feel comfortable having a portrait of {leader} displayed in a public building?"
+  ],
+  "Contemporary Relevance": [
+    "Are there any lessons from {leader}'s rule that apply to politics today?",
+    "Would someone like {leader} be able to rise to power in today's world?",
+    "Do you see any current leaders who remind you of {leader}?"
+  ],
+  "Hypothetical Scenarios": [
+    "If {leader} were ruling your country, would you actively resist, comply, or support them?",
+    "Would you prefer to live under {leader}'s rule or under the system that preceded them?",
+    "If {leader} had never come to power, do you think the country would be better or worse now?"
+  ],
+  "Personal Connections": [
+    "How do your family members or older generations view {leader}?",
+    "Has your opinion of {leader} changed over time, and if so, how?",
+    "Would you read a book or watch a movie that portrays {leader} sympathetically?"
+  ],
+  "Value Judgments": [
+    "Does {leader} deserve any respect for their achievements?",
+    "Should {leader}'s name be removed from streets, buildings, or monuments?",
+    "Is there anything about {leader} that you find yourself admiring despite their overall record?"
+  ],
+  "Emotional Responses": [
+    "What emotion best describes how you feel when thinking about {leader}?",
+    "Do you feel any sympathy for {leader} as a person?",
+    "Does learning about {leader} make you feel hopeful or pessimistic about human nature?"
+  ],
+  "Cultural Significance": [
+    "Do you think {leader} should be portrayed in popular culture, and if so, how?",
+    "Should jokes or memes about {leader} be considered offensive?",
+    "Is it appropriate for artists or musicians to reference or be inspired by {leader}?"
+  ],
+  "Memory and Legacy": [
+    "How should future generations remember {leader}?",
+    "Would you support a museum dedicated to examining {leader}'s rule?",
+    "Should {leader} be mentioned in school textbooks, and how should they be described?"
+  ],
+  "Comparative Judgments": [
+    "Who do you consider worse: {leader} or [another authoritarian leader]?",
+    "Would you rank {leader} among the worst leaders in history or somewhere in the middle?",
+    "Is there any current democratic leader who you think has concerning similarities to {leader}?"
+  ],
+  "Personal Responsibility": [
+    "Do ordinary citizens who supported {leader} bear moral responsibility?",
+    "Should businesses that collaborated with {leader}'s regime be held accountable today?",
+    "Should family members of {leader} be treated differently than the general population?"
+  ]
+}

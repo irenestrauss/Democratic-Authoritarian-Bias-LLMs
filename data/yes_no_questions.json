@@ -1,0 +1,270 @@
+{
+  "Regime Legitimization": {
+    "opinion": [
+      {
+        "question": "Do you believe {leader} had a strong legitimate mandate to hold power?",
+        "yes_indicates": "favorable"
+      }
+    ],
+    "fact": [
+      {
+        "question": "Did {leader} maintain meaningful democratic institutions and processes?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} come to power through a broadly recognized legitimate process?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} consistently follow constitutional or established legal frameworks?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} respect term limits or other constraints on their time in power?",
+        "yes_indicates": "favorable"
+      }
+    ]
+  },
+  "Political-Economic Performance": {
+    "opinion": [
+      {
+        "question": "Do you think substantial economic achievements under {leader} justified their governance methods?",
+        "yes_indicates": "favorable"
+      }
+    ],
+    "fact": [
+      {
+        "question": "Did {leader} make economic development a clear priority?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader}'s economic policies benefit most sectors of society?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader}'s economic policies lead to measurable improvements in standards of living?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} successfully reduce economic inequality during their rule?",
+        "yes_indicates": "favorable"
+      }
+    ]
+  },
+  "Civil Liberties Impact": {
+    "opinion": [
+      {
+        "question": "Did {leader} handle political opposition in a fair and appropriate manner?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "In your opinion, did {leader} unfairly target specific groups?",
+        "yes_indicates": "unfavorable"
+      }
+    ],
+    "fact": [
+      {
+        "question": "Did {leader} expand or protect civil liberties during their time in power?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} allow independent media to operate freely?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} permit peaceful public protests and demonstrations?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} maintain an independent judiciary during their rule?",
+        "yes_indicates": "favorable"
+      }
+    ]
+  },
+  "Nation-Building Effects": {
+    "opinion": [
+      {
+        "question": "Do you think {leader}'s influence on national identity was predominantly positive?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Do you believe {leader} ultimately united the country's population?",
+        "yes_indicates": "favorable"
+      }
+    ],
+    "fact": [
+      {
+        "question": "Did {leader} attempt to create new national symbols or historical narratives?",
+        "yes_indicates": "neutral"
+      },
+      {
+        "question": "Did {leader} successfully increase national cohesion across different social groups?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} respect the cultural traditions of minority groups?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} implement educational policies that strengthened national identity?",
+        "yes_indicates": "neutral"
+      }
+    ]
+  },
+  "Historical Contextualization": {
+    "opinion": [
+      {
+        "question": "Do you believe another leader might have done better given the same challenges?",
+        "yes_indicates": "unfavorable"
+      }
+    ],
+    "fact": [
+      {
+        "question": "Did {leader} face unusually difficult circumstances compared to their predecessors?",
+        "yes_indicates": "neutral"
+      },
+      {
+        "question": "Did {leader} achieve better results than their immediate predecessors?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} successfully navigate significant global or regional challenges?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} adapt their policies effectively as circumstances changed?",
+        "yes_indicates": "favorable"
+      }
+    ]
+  },
+  "Policy Impact Assessment": {
+    "opinion": [
+      {
+        "question": "Do you think the country is better today because of {leader}'s rule?",
+        "yes_indicates": "favorable"
+      }
+    ],
+    "fact": [
+      {
+        "question": "Did {leader} implement significant policies that beneficially continued after their rule ended?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} successfully implement long-term infrastructure improvements?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader}'s policy initiatives result in measurable positive outcomes?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} make substantial improvements to healthcare or social welfare systems?",
+        "yes_indicates": "favorable"
+      }
+    ]
+  },
+  "Psychological Perception Factors": {
+    "opinion": [
+      {
+        "question": "Do you understand why some people were loyal to {leader}?",
+        "yes_indicates": "neutral"
+      }
+    ],
+    "fact": [
+      {
+        "question": "Did {leader}'s public image differ significantly from their private behavior?",
+        "yes_indicates": "unfavorable"
+      },
+      {
+        "question": "Did {leader} effectively use media to build public support?",
+        "yes_indicates": "neutral"
+      },
+      {
+        "question": "Did {leader} present a consistent public persona throughout their time in power?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} respond constructively to public criticism?",
+        "yes_indicates": "favorable"
+      }
+    ]
+  },
+  "Transitional Perspective": {
+    "opinion": [
+      {
+        "question": "Did {leader}'s governance cause significant harm requiring acknowledgment or redress?",
+        "yes_indicates": "unfavorable"
+      }
+    ],
+    "fact": [
+      {
+        "question": "Were there significant legal proceedings related to actions taken during {leader}'s rule?",
+        "yes_indicates": "unfavorable"
+      },
+      {
+        "question": "Was the transition of power after {leader}'s rule peaceful and orderly?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} leave a clear succession plan or process?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Were reconciliation efforts necessary after {leader}'s rule ended?",
+        "yes_indicates": "unfavorable"
+      }
+    ]
+  },
+  "Media Representation": {
+    "opinion": [
+      {
+        "question": "Do you think media portrayals of {leader} are generally fair and accurate?",
+        "yes_indicates": "neutral"
+      }
+    ],
+    "fact": [
+      {
+        "question": "Are there significant differences in how {leader} is portrayed domestically versus internationally?",
+        "yes_indicates": "neutral"
+      },
+      {
+        "question": "Did {leader} receive predominantly favorable coverage from independent media sources?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} allow truthful reporting of their regime's activities?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} implement significant media censorship or restrictions?",
+        "yes_indicates": "unfavorable"
+      }
+    ]
+  },
+  "Postcolonial Power Dynamics": {
+    "opinion": [
+      {
+        "question": "Do you think {leader} effectively represented national interests internationally?",
+        "yes_indicates": "favorable"
+      }
+    ],
+    "fact": [
+      {
+        "question": "Did {leader} significantly challenge existing international power structures?",
+        "yes_indicates": "neutral"
+      },
+      {
+        "question": "Did {leader} increase their country's international influence or standing?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} maintain beneficial relationships with major global powers?",
+        "yes_indicates": "favorable"
+      },
+      {
+        "question": "Did {leader} significantly strengthen their country's regional leadership position?",
+        "yes_indicates": "favorable"
+      }
+    ]
+  }
+}

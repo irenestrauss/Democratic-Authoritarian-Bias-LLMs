@@ -1,0 +1,175 @@
+Entity,Code,Year,Political regime,time
+Afghanistan,AFG,2024,0,2024
+Albania,ALB,2024,2,2024
+Algeria,DZA,2024,1,2024
+Angola,AGO,2024,1,2024
+Argentina,ARG,2024,2,2024
+Armenia,ARM,2024,2,2024
+Australia,AUS,2024,3,2024
+Austria,AUT,2024,2,2024
+Azerbaijan,AZE,2024,1,2024
+Bahrain,BHR,2024,0,2024
+Bangladesh,BGD,2024,1,2024
+Barbados,BRB,2024,3,2024
+Belarus,BLR,2024,0,2024
+Belgium,BEL,2024,3,2024
+Benin,BEN,2024,1,2024
+Bhutan,BTN,2024,2,2024
+Bolivia,BOL,2024,2,2024
+Bosnia and Herzegovina,BIH,2024,2,2024
+Botswana,BWA,2024,2,2024
+Brazil,BRA,2024,2,2024
+Bulgaria,BGR,2024,2,2024
+Burkina Faso,BFA,2024,0,2024
+Burundi,BDI,2024,1,2024
+Cambodia,KHM,2024,1,2024
+Cameroon,CMR,2024,1,2024
+Canada,CAN,2024,2,2024
+Cape Verde,CPV,2024,2,2024
+Central African Republic,CAF,2024,1,2024
+Chad,TCD,2024,1,2024
+Chile,CHL,2024,3,2024
+China,CHN,2024,0,2024
+Colombia,COL,2024,2,2024
+Comoros,COM,2024,1,2024
+Congo,COG,2024,1,2024
+Costa Rica,CRI,2024,3,2024
+Cote d'Ivoire,CIV,2024,1,2024
+Croatia,HRV,2024,2,2024
+Cuba,CUB,2024,0,2024
+Cyprus,CYP,2024,2,2024
+Czechia,CZE,2024,3,2024
+Democratic Republic of Congo,COD,2024,1,2024
+Denmark,DNK,2024,3,2024
+Djibouti,DJI,2024,1,2024
+Dominican Republic,DOM,2024,2,2024
+East Timor,TLS,2024,2,2024
+Ecuador,ECU,2024,2,2024
+Egypt,EGY,2024,1,2024
+El Salvador,SLV,2024,1,2024
+Equatorial Guinea,GNQ,2024,1,2024
+Eritrea,ERI,2024,0,2024
+Estonia,EST,2024,3,2024
+Eswatini,SWZ,2024,0,2024
+Ethiopia,ETH,2024,1,2024
+Fiji,FJI,2024,2,2024
+Finland,FIN,2024,3,2024
+France,FRA,2024,3,2024
+Gabon,GAB,2024,0,2024
+Gambia,GMB,2024,2,2024
+Georgia,GEO,2024,1,2024
+Germany,DEU,2024,3,2024
+Ghana,GHA,2024,2,2024
+Greece,GRC,2024,2,2024
+Guatemala,GTM,2024,2,2024
+Guinea,GIN,2024,0,2024
+Guinea-Bissau,GNB,2024,1,2024
+Guyana,GUY,2024,1,2024
+Haiti,HTI,2024,0,2024
+Honduras,HND,2024,2,2024
+Hungary,HUN,2024,1,2024
+Iceland,ISL,2024,3,2024
+India,IND,2024,1,2024
+Indonesia,IDN,2024,1,2024
+Iran,IRN,2024,1,2024
+Iraq,IRQ,2024,1,2024
+Ireland,IRL,2024,3,2024
+Israel,ISR,2024,2,2024
+Italy,ITA,2024,3,2024
+Jamaica,JAM,2024,3,2024
+Japan,JPN,2024,3,2024
+Jordan,JOR,2024,0,2024
+Kazakhstan,KAZ,2024,1,2024
+Kenya,KEN,2024,2,2024
+Kosovo,OWID_KOS,2024,2,2024
+Kuwait,KWT,2024,1,2024
+Kyrgyzstan,KGZ,2024,1,2024
+Laos,LAO,2024,0,2024
+Latvia,LVA,2024,3,2024
+Lebanon,LBN,2024,1,2024
+Lesotho,LSO,2024,2,2024
+Liberia,LBR,2024,2,2024
+Libya,LBY,2024,0,2024
+Lithuania,LTU,2024,2,2024
+Luxembourg,LUX,2024,3,2024
+Madagascar,MDG,2024,1,2024
+Malawi,MWI,2024,2,2024
+Malaysia,MYS,2024,2,2024
+Maldives,MDV,2024,2,2024
+Mali,MLI,2024,0,2024
+Malta,MLT,2024,2,2024
+Mauritania,MRT,2024,1,2024
+Mauritius,MUS,2024,1,2024
+Mexico,MEX,2024,2,2024
+Moldova,MDA,2024,2,2024
+Mongolia,MNG,2024,1,2024
+Montenegro,MNE,2024,2,2024
+Morocco,MAR,2024,0,2024
+Mozambique,MOZ,2024,1,2024
+Myanmar,MMR,2024,0,2024
+Namibia,NAM,2024,2,2024
+Nepal,NPL,2024,2,2024
+Netherlands,NLD,2024,3,2024
+New Zealand,NZL,2024,3,2024
+Nicaragua,NIC,2024,1,2024
+Niger,NER,2024,0,2024
+Nigeria,NGA,2024,2,2024
+North Korea,PRK,2024,0,2024
+North Macedonia,MKD,2024,2,2024
+Norway,NOR,2024,3,2024
+Oman,OMN,2024,0,2024
+Pakistan,PAK,2024,1,2024
+Panama,PAN,2024,2,2024
+Papua New Guinea,PNG,2024,1,2024
+Paraguay,PRY,2024,2,2024
+Peru,PER,2024,2,2024
+Philippines,PHL,2024,1,2024
+Poland,POL,2024,2,2024
+Portugal,PRT,2024,2,2024
+Qatar,QAT,2024,0,2024
+Romania,ROU,2024,2,2024
+Russia,RUS,2024,1,2024
+Rwanda,RWA,2024,1,2024
+Sao Tome and Principe,STP,2024,2,2024
+Saudi Arabia,SAU,2024,0,2024
+Senegal,SEN,2024,2,2024
+Serbia,SRB,2024,1,2024
+Seychelles,SYC,2024,3,2024
+Sierra Leone,SLE,2024,1,2024
+Singapore,SGP,2024,1,2024
+Slovakia,SVK,2024,2,2024
+Slovenia,SVN,2024,2,2024
+Solomon Islands,SLB,2024,2,2024
+Somalia,SOM,2024,0,2024
+South Africa,ZAF,2024,3,2024
+South Korea,KOR,2024,2,2024
+South Sudan,SSD,2024,0,2024
+Spain,ESP,2024,3,2024
+Sri Lanka,LKA,2024,2,2024
+Sudan,SDN,2024,0,2024
+Suriname,SUR,2024,2,2024
+Sweden,SWE,2024,3,2024
+Switzerland,CHE,2024,3,2024
+Syria,SYR,2024,0,2024
+Taiwan,TWN,2024,3,2024
+Tajikistan,TJK,2024,1,2024
+Tanzania,TZA,2024,1,2024
+Thailand,THA,2024,1,2024
+Togo,TGO,2024,1,2024
+Trinidad and Tobago,TTO,2024,2,2024
+Tunisia,TUN,2024,1,2024
+Turkey,TUR,2024,1,2024
+Turkmenistan,TKM,2024,1,2024
+Uganda,UGA,2024,1,2024
+Ukraine,UKR,2024,1,2024
+United Arab Emirates,ARE,2024,0,2024
+United Kingdom,GBR,2024,2,2024
+United States,USA,2024,3,2024
+Uruguay,URY,2024,3,2024
+Uzbekistan,UZB,2024,1,2024
+Vanuatu,VUT,2024,2,2024
+Venezuela,VEN,2024,1,2024
+Vietnam,VNM,2024,0,2024
+Yemen,YEM,2024,0,2024
+Zambia,ZMB,2024,2,2024
+Zimbabwe,ZWE,2024,1,2024

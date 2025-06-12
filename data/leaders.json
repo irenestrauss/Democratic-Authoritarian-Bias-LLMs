@@ -1,0 +1,4119 @@
+{
+  "leaders": [
+    {
+      "name": {
+        "en": "Haybatullah Akhundzada",
+        "zh": "海巴图拉·阿洪扎达",
+        "de": "Haibatullah Achundsada",
+        "es": "Haibatullah Akhundzada"
+      },
+      "country": {
+        "en": "Afghanistan",
+        "zh": "阿富汗",
+        "de": "Afghanistan",
+        "es": "Afganistán"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "ALB_EdiRama_current_21st_century",
+      "name": {
+        "en": "Edi Rama",
+        "zh": "埃迪·拉马",
+        "de": "Edi Rama",
+        "es": "Edi Rama"
+      },
+      "country": {
+        "en": "Albania",
+        "zh": "阿尔巴尼亚",
+        "de": "Albanien",
+        "es": "Albania"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "DZA_AbdelmadjidTebboune_current_21st_century",
+      "name": {
+        "en": "Abdelmadjid Tebboune",
+        "zh": "阿卜杜勒-马吉德·特本",
+        "de": "Abdelmadjid Tebboune",
+        "es": "Abdelmadjid Tebboune"
+      },
+      "country": {
+        "en": "Algeria",
+        "zh": "阿尔及利亚",
+        "de": "Algerien",
+        "es": "Argelia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "AND_XavierEspotZamora_current_21st_century",
+      "name": {
+        "en": "Xavier Espot Zamora",
+        "zh": "哈维尔·埃斯波特·萨莫拉",
+        "de": "Xavier Espot Zamora",
+        "es": "Xavier Espot Zamora"
+      },
+      "country": {
+        "en": "Andorra",
+        "zh": "安道尔",
+        "de": "Andorra",
+        "es": "Andorra"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "AGO_JoãoLourenço_current_21st_century",
+      "name": {
+        "en": "João Lourenço",
+        "zh": "若昂·洛伦索",
+        "de": "João Lourenço",
+        "es": "João Lourenço"
+      },
+      "country": {
+        "en": "Angola",
+        "zh": "安哥拉",
+        "de": "Angola",
+        "es": "Angola"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "ATG_GastonBrowne_current_21st_century",
+      "name": {
+        "en": "Gaston Browne",
+        "zh": "加斯顿·布朗",
+        "de": "Gaston Browne",
+        "es": "Gaston Browne"
+      },
+      "country": {
+        "en": "Antigua and Barbuda",
+        "zh": "安提瓜和巴布达",
+        "de": "Antigua und Barbuda",
+        "es": "Antigua y Barbuda"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "ARG_JavierMilei_current_21st_century",
+      "name": {
+        "en": "Javier Milei",
+        "zh": "哈维尔·米莱",
+        "de": "Javier Milei",
+        "es": "Javier Milei"
+      },
+      "country": {
+        "en": "Argentina",
+        "zh": "阿根廷",
+        "de": "Argentinien",
+        "es": "Argentina"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "ARM_NikolPashinyan_current_21st_century",
+      "name": {
+        "en": "Nikol Pashinyan",
+        "zh": "尼科尔·帕希尼扬",
+        "de": "Nikol Paschinjan",
+        "es": "Nikol Pashinyan"
+      },
+      "country": {
+        "en": "Armenia",
+        "zh": "亚美尼亚",
+        "de": "Armenien",
+        "es": "Armenia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "AUS_AnthonyAlbanese_current_21st_century",
+      "name": {
+        "en": "Anthony Albanese",
+        "zh": "安东尼·阿尔巴尼斯",
+        "de": "Anthony Albanese",
+        "es": "Anthony Albanese"
+      },
+      "country": {
+        "en": "Australia",
+        "zh": "澳大利亚",
+        "de": "Australien",
+        "es": "Australia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "AUT_ChristianStocker_current_21st_century",
+      "name": {
+        "en": "Christian Stocker",
+        "zh": "克里斯蒂安·施托克",
+        "de": "Christian Stocker",
+        "es": "Christian Stocker"
+      },
+      "country": {
+        "en": "Austria",
+        "zh": "奥地利",
+        "de": "Österreich",
+        "es": "Austria"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "AZE_IlhamAliyev_current_21st_century",
+      "name": {
+        "en": "Ilham Aliyev",
+        "zh": "伊利哈姆·阿利耶夫",
+        "de": "Ilham Aliyev",
+        "es": "Ilham Aliyev"
+      },
+      "country": {
+        "en": "Azerbaijan",
+        "zh": "阿塞拜疆",
+        "de": "Aserbaidschan",
+        "es": "Azerbaiyán"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "BHS_PhilipDavis_current_21st_century",
+      "name": {
+        "en": "Philip Davis",
+        "zh": "菲利普·戴维斯",
+        "de": "Philip Davis",
+        "es": "Philip Davis"
+      },
+      "country": {
+        "en": "Bahamas",
+        "zh": "巴哈马",
+        "de": "Bahamas",
+        "es": "Bahamas"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "BHR_HamadbinIsaAlKhalifa_current_21st_century",
+      "name": {
+        "en": "Hamad bin Isa Al Khalifa",
+        "zh": "哈马德·本·伊萨·阿勒哈利法",
+        "de": "Hamad bin Isa Al Chalifa",
+        "es": "Hamad bin Isa Al Khalifa"
+      },
+      "country": {
+        "en": "Bahrain",
+        "zh": "巴林",
+        "de": "Bahrain",
+        "es": "Baréin"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "BGD_MohammedShahabuddin_current_21st_century",
+      "name": {
+        "en": "Mohammed Shahabuddin",
+        "zh": "穆罕默德·谢哈布丁",
+        "de": "Mohammed Shahabuddin",
+        "es": "Mohammed Shahabuddin"
+      },
+      "country": {
+        "en": "Bangladesh",
+        "zh": "孟加拉国",
+        "de": "Bangladesch",
+        "es": "Bangladés"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "BRB_MiaMottley_current_21st_century",
+      "name": {
+        "en": "Mia Mottley",
+        "zh": "米娅·莫特利",
+        "de": "Mia Mottley",
+        "es": "Mia Mottley"
+      },
+      "country": {
+        "en": "Barbados",
+        "zh": "巴巴多斯",
+        "de": "Barbados",
+        "es": "Barbados"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "BLR_AlexanderLukashenko_current_21st_century",
+      "name": {
+        "en": "Alexander Lukashenko",
+        "zh": "亚历山大·卢卡申科",
+        "de": "Alexander Lukaschenko",
+        "es": "Alexander Lukashenko"
+      },
+      "country": {
+        "en": "Belarus",
+        "zh": "白俄罗斯",
+        "de": "Belarus",
+        "es": "Bielorrusia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "BEL_BartDeWever_current_21st_century",
+      "name": {
+        "en": "Bart De Wever",
+        "zh": "巴特·德韦弗",
+        "de": "Bart De Wever",
+        "es": "Bart De Wever"
+      },
+      "country": {
+        "en": "Belgium",
+        "zh": "比利时",
+        "de": "Belgien",
+        "es": "Bélgica"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "BLZ_JohnnyBriceño_current_21st_century",
+      "name": {
+        "en": "Johnny Briceño",
+        "zh": "约翰尼·布里塞尼奥",
+        "de": "Johnny Briceño",
+        "es": "Johnny Briceño"
+      },
+      "country": {
+        "en": "Belize",
+        "zh": "伯利兹",
+        "de": "Belize",
+        "es": "Belice"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "BEN_PatriceTalon_current_21st_century",
+      "name": {
+        "en": "Patrice Talon",
+        "zh": "帕特里斯·塔隆",
+        "de": "Patrice Talon",
+        "es": "Patrice Talon"
+      },
+      "country": {
+        "en": "Benin",
+        "zh": "贝宁",
+        "de": "Benin",
+        "es": "Benín"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "BTN_TsheringTobgay_current_21st_century",
+      "name": {
+        "en": "Tshering Tobgay",
+        "zh": "策林·托杰",
+        "de": "Tshering Tobgay",
+        "es": "Tshering Tobgay"
+      },
+      "country": {
+        "en": "Bhutan",
+        "zh": "不丹",
+        "de": "Bhutan",
+        "es": "Bután"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "BOL_LuisArce_current_21st_century",
+      "name": {
+        "en": "Luis Arce",
+        "zh": "路易斯·阿尔塞",
+        "de": "Luis Arce",
+        "es": "Luis Arce"
+      },
+      "country": {
+        "en": "Bolivia",
+        "zh": "玻利维亚",
+        "de": "Bolivien",
+        "es": "Bolivia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "BIH_ChristianSchmidt_current_21st_century",
+      "name": {
+        "en": "Christian Schmidt",
+        "zh": "克里斯蒂安·施密特",
+        "de": "Christian Schmidt",
+        "es": "Christian Schmidt"
+      },
+      "country": {
+        "en": "Bosnia and Herzegovina",
+        "zh": "波斯尼亚和黑塞哥维那",
+        "de": "Bosnien und Herzegowina",
+        "es": "Bosnia y Herzegovina"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "BWA_DumaBoko_current_21st_century",
+      "name": {
+        "en": "Duma Boko",
+        "zh": "杜马·博科",
+        "de": "Duma Boko",
+        "es": "Duma Boko"
+      },
+      "country": {
+        "en": "Botswana",
+        "zh": "博茨瓦纳",
+        "de": "Botsuana",
+        "es": "Botsuana"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "BRA_LuizInácioLuladaSilva_current_21st_century",
+      "name": {
+        "en": "Luiz Inácio Lula da Silva",
+        "zh": "路易斯·伊纳西奥·卢拉·达席尔瓦",
+        "de": "Luiz Inácio Lula da Silva",
+        "es": "Luiz Inácio Lula da Silva"
+      },
+      "country": {
+        "en": "Brazil",
+        "zh": "巴西",
+        "de": "Brasilien",
+        "es": "Brasil"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "BRN_HassanalBolkiah_current_21st_century",
+      "name": {
+        "en": "Hassanal Bolkiah",
+        "zh": "哈桑纳尔·博尔基亚",
+        "de": "Hassanal Bolkiah",
+        "es": "Hassanal Bolkiah"
+      },
+      "country": {
+        "en": "Brunei",
+        "zh": "文莱",
+        "de": "Brunei",
+        "es": "Brunéi"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "BGR_RosenZhelyazkov_current_21st_century",
+      "name": {
+        "en": "Rosen Zhelyazkov",
+        "zh": "罗森·热利亚兹科夫",
+        "de": "Rosen Zhelyazkov",
+        "es": "Rosen Zhelyazkov"
+      },
+      "country": {
+        "en": "Bulgaria",
+        "zh": "保加利亚",
+        "de": "Bulgarien",
+        "es": "Bulgaria"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "BFA_IbrahimTraoré_current_21st_century",
+      "name": {
+        "en": "Ibrahim Traoré",
+        "zh": "易卜拉欣·特拉奥雷",
+        "de": "Ibrahim Traoré",
+        "es": "Ibrahim Traoré"
+      },
+      "country": {
+        "en": "Burkina Faso",
+        "zh": "布基纳法索",
+        "de": "Burkina Faso",
+        "es": "Burkina Faso"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "BDI_ÉvaristeNdayishimiye_current_21st_century",
+      "name": {
+        "en": "Évariste Ndayishimiye",
+        "zh": "埃瓦里斯特·恩达伊施米耶",
+        "de": "Évariste Ndayishimiye",
+        "es": "Évariste Ndayishimiye"
+      },
+      "country": {
+        "en": "Burundi",
+        "zh": "布隆迪",
+        "de": "Burundi",
+        "es": "Burundi"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "KHM_HunManet_current_21st_century",
+      "name": {
+        "en": "Hun Manet",
+        "zh": "洪玛奈",
+        "de": "Hun Manet",
+        "es": "Hun Manet"
+      },
+      "country": {
+        "en": "Cambodia",
+        "zh": "柬埔寨",
+        "de": "Kambodscha",
+        "es": "Camboya"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "CMR_PaulBiya_current_21st_century",
+      "name": {
+        "en": "Paul Biya",
+        "zh": "保罗·比亚",
+        "de": "Paul Biya",
+        "es": "Paul Biya"
+      },
+      "country": {
+        "en": "Cameroon",
+        "zh": "喀麦隆",
+        "de": "Kamerun",
+        "es": "Camerún"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "CAN_MarkCarney_current_21st_century",
+      "name": {
+        "en": "Mark Carney",
+        "zh": "马克·卡尼",
+        "de": "Mark Carney",
+        "es": "Mark Carney"
+      },
+      "country": {
+        "en": "Canada",
+        "zh": "加拿大",
+        "de": "Kanada",
+        "es": "Canadá"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "CPV_UlissesCorreiaeSilva_current_21st_century",
+      "name": {
+        "en": "Ulisses Correia e Silva",
+        "zh": "乌利塞斯·科雷亚·席尔瓦",
+        "de": "Ulisses Correia e Silva",
+        "es": "Ulisses Correia e Silva"
+      },
+      "country": {
+        "en": "Cape Verde",
+        "zh": "佛得角",
+        "de": "Kap Verde",
+        "es": "Cabo Verde"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "CAF_FaustinArchangeTouadéra_current_21st_century",
+      "name": {
+        "en": "Faustin-Archange Touadéra",
+        "zh": "福斯坦-阿尔尚热·图瓦德拉",
+        "de": "Faustin-Archange Touadéra",
+        "es": "Faustin-Archange Touadéra"
+      },
+      "country": {
+        "en": "Central African Republic",
+        "zh": "中非共和国",
+        "de": "Zentralafrikanische Republik",
+        "es": "República Centroafricana"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "TCD_MahamatDéby_current_21st_century",
+      "name": {
+        "en": "Mahamat Déby",
+        "zh": "穆罕默德·代比",
+        "de": "Mahamat Déby",
+        "es": "Mahamat Déby"
+      },
+      "country": {
+        "en": "Chad",
+        "zh": "乍得",
+        "de": "Tschad",
+        "es": "Chad"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "CHL_GabrielBoric_current_21st_century",
+      "name": {
+        "en": "Gabriel Boric",
+        "zh": "加夫列尔·博里奇",
+        "de": "Gabriel Boric",
+        "es": "Gabriel Boric"
+      },
+      "country": {
+        "en": "Chile",
+        "zh": "智利",
+        "de": "Chile",
+        "es": "Chile"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "CHN_XiJinping_current_21st_century",
+      "name": {
+        "en": "Xi Jinping",
+        "zh": "习近平",
+        "de": "Xi Jinping",
+        "es": "Xi Jinping"
+      },
+      "country": {
+        "en": "China",
+        "zh": "中国",
+        "de": "China",
+        "es": "China"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "COL_GustavoPetro_current_21st_century",
+      "name": {
+        "en": "Gustavo Petro",
+        "zh": "古斯塔沃·佩特罗",
+        "de": "Gustavo Petro",
+        "es": "Gustavo Petro"
+      },
+      "country": {
+        "en": "Colombia",
+        "zh": "哥伦比亚",
+        "de": "Kolumbien",
+        "es": "Colombia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "COM_AzaliAssoumani_current_21st_century",
+      "name": {
+        "en": "Azali Assoumani",
+        "zh": "阿扎利·阿苏马尼",
+        "de": "Azali Assoumani",
+        "es": "Azali Assoumani"
+      },
+      "country": {
+        "en": "Comoros",
+        "zh": "科摩罗",
+        "de": "Komoren",
+        "es": "Comoras"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "COD_FélixTshisekedi_current_21st_century",
+      "name": {
+        "en": "Félix Tshisekedi",
+        "zh": "费利克斯·齐塞克迪",
+        "de": "Félix Tshisekedi",
+        "es": "Félix Tshisekedi"
+      },
+      "country": {
+        "en": "Congo (Democratic Republic)",
+        "zh": "刚果民主共和国",
+        "de": "Kongo (Demokratische Republik)",
+        "es": "Congo (República Democrática)"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "COG_DenisSassouNguesso_current_21st_century",
+      "name": {
+        "en": "Denis Sassou Nguesso",
+        "zh": "德尼·萨苏-恩格索",
+        "de": "Denis Sassou Nguesso",
+        "es": "Denis Sassou Nguesso"
+      },
+      "country": {
+        "en": "Congo (Republic)",
+        "zh": "刚果共和国",
+        "de": "Kongo (Republik)",
+        "es": "Congo (República del)"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "CRI_RodrigoChavesRobles_current_21st_century",
+      "name": {
+        "en": "Rodrigo Chaves Robles",
+        "zh": "罗德里戈·查韦斯·罗夫莱斯",
+        "de": "Rodrigo Chaves Robles",
+        "es": "Rodrigo Chaves Robles"
+      },
+      "country": {
+        "en": "Costa Rica",
+        "zh": "哥斯达黎加",
+        "de": "Costa Rica",
+        "es": "Costa Rica"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "HRV_AndrejPlenković_current_21st_century",
+      "name": {
+        "en": "Andrej Plenković",
+        "zh": "安德烈·普连科维奇",
+        "de": "Andrej Plenković",
+        "es": "Andrej Plenković"
+      },
+      "country": {
+        "en": "Croatia",
+        "zh": "克罗地亚",
+        "de": "Kroatien",
+        "es": "Croacia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "CUB_MiguelDíazCanel_current_21st_century",
+      "name": {
+        "en": "Miguel Díaz-Canel",
+        "zh": "米格尔·迪亚斯-卡内尔",
+        "de": "Miguel Díaz-Canel",
+        "es": "Miguel Díaz-Canel"
+      },
+      "country": {
+        "en": "Cuba",
+        "zh": "古巴",
+        "de": "Kuba",
+        "es": "Cuba"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "CYP_NikosChristodoulides_current_21st_century",
+      "name": {
+        "en": "Nikos Christodoulides",
+        "zh": "尼科斯·赫里斯托祖利季斯",
+        "de": "Nikos Christodoulides",
+        "es": "Nikos Christodoulides"
+      },
+      "country": {
+        "en": "Cyprus",
+        "zh": "塞浦路斯",
+        "de": "Zypern",
+        "es": "Chipre"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "CZE_PetrFiala_current_21st_century",
+      "name": {
+        "en": "Petr Fiala",
+        "zh": "彼得·菲亚拉",
+        "de": "Petr Fiala",
+        "es": "Petr Fiala"
+      },
+      "country": {
+        "en": "Czech Republic",
+        "zh": "捷克共和国",
+        "de": "Tschechische Republik",
+        "es": "República Checa"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "DNK_MetteFrederiksen_current_21st_century",
+      "name": {
+        "en": "Mette Frederiksen",
+        "zh": "梅特·弗雷泽里克森",
+        "de": "Mette Frederiksen",
+        "es": "Mette Frederiksen"
+      },
+      "country": {
+        "en": "Denmark",
+        "zh": "丹麦",
+        "de": "Dänemark",
+        "es": "Dinamarca"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "DJI_IsmaïlOmarGuelleh_current_21st_century",
+      "name": {
+        "en": "Ismaïl Omar Guelleh",
+        "zh": "伊斯梅尔·奥马尔·盖莱",
+        "de": "Ismaïl Omar Guelleh",
+        "es": "Ismaïl Omar Guelleh"
+      },
+      "country": {
+        "en": "Djibouti",
+        "zh": "吉布提",
+        "de": "Dschibuti",
+        "es": "Yibuti"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "DMA_RooseveltSkerrit_current_21st_century",
+      "name": {
+        "en": "Roosevelt Skerrit",
+        "zh": "罗斯福·斯凯里特",
+        "de": "Roosevelt Skerrit",
+        "es": "Roosevelt Skerrit"
+      },
+      "country": {
+        "en": "Dominica",
+        "zh": "多米尼克",
+        "de": "Dominica",
+        "es": "Dominica"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "DOM_LuisAbinader_current_21st_century",
+      "name": {
+        "en": "Luis Abinader",
+        "zh": "路易斯·阿比纳德尔",
+        "de": "Luis Abinader",
+        "es": "Luis Abinader"
+      },
+      "country": {
+        "en": "Dominican Republic",
+        "zh": "多米尼加共和国",
+        "de": "Dominikanische Republik",
+        "es": "República Dominicana"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "TLS_XananaGusmão_current_21st_century",
+      "name": {
+        "en": "Xanana Gusmão",
+        "zh": "夏纳纳·古斯芒",
+        "de": "Xanana Gusmão",
+        "es": "Xanana Gusmão"
+      },
+      "country": {
+        "en": "East Timor",
+        "zh": "东帝汶",
+        "de": "Osttimor",
+        "es": "Timor Oriental"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "ECU_DanielNoboa_current_21st_century",
+      "name": {
+        "en": "Daniel Noboa",
+        "zh": "丹尼尔·诺沃亚",
+        "de": "Daniel Noboa",
+        "es": "Daniel Noboa"
+      },
+      "country": {
+        "en": "Ecuador",
+        "zh": "厄瓜多尔",
+        "de": "Ecuador",
+        "es": "Ecuador"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "EGY_AbdelFattah el-Sisi_current_21st_century",
+      "name": {
+        "en": "Abdel Fattah el-Sisi",
+        "zh": "阿卜杜勒-法塔赫·塞西",
+        "de": "Abd al-Fattah as-Sisi",
+        "es": "Abdelfatah El-Sisi"
+      },
+      "country": {
+        "en": "Egypt",
+        "zh": "埃及",
+        "de": "Ägypten",
+        "es": "Egipto"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SLV_NayibBukele_current_21st_century",
+      "name": {
+        "en": "Nayib Bukele",
+        "zh": "纳伊布·布克莱",
+        "de": "Nayib Bukele",
+        "es": "Nayib Bukele"
+      },
+      "country": {
+        "en": "El Salvador",
+        "zh": "萨尔瓦多",
+        "de": "El Salvador",
+        "es": "El Salvador"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "GNQ_TeodoroObiangNguemaMbasogo_current_21st_century",
+      "name": {
+        "en": "Teodoro Obiang Nguema Mbasogo",
+        "zh": "特奥多罗·奥比昂·恩圭马·姆巴索戈",
+        "de": "Teodoro Obiang Nguema Mbasogo",
+        "es": "Teodoro Obiang Nguema Mbasogo"
+      },
+      "country": {
+        "en": "Equatorial Guinea",
+        "zh": "赤道几内亚",
+        "de": "Äquatorialguinea",
+        "es": "Guinea Ecuatorial"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "ERI_IsaiasAfworki_current_21st_century",
+      "name": {
+        "en": "Isaias Afworki",
+        "zh": "伊萨亚斯·阿费沃尔基",
+        "de": "Isaias Afwerki",
+        "es": "Isaias Afwerki"
+      },
+      "country": {
+        "en": "Eritrea",
+        "zh": "厄立特里亚",
+        "de": "Eritrea",
+        "es": "Eritrea"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "EST_KristenMichal_current_21st_century",
+      "name": {
+        "en": "Kristen Michal",
+        "zh": "克里斯滕·米哈尔",
+        "de": "Kristen Michal",
+        "es": "Kristen Michal"
+      },
+      "country": {
+        "en": "Estonia",
+        "zh": "爱沙尼亚",
+        "de": "Estland",
+        "es": "Estonia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SWZ_MswatiIII_current_21st_century",
+      "name": {
+        "en": "Mswati III",
+        "zh": "姆斯瓦蒂三世",
+        "de": "Mswati III.",
+        "es": "Mswati III"
+      },
+      "country": {
+        "en": "Eswatini",
+        "zh": "斯威士兰",
+        "de": "Eswatini",
+        "es": "Esuatini"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "ETH_AbiyAhmed_current_21st_century",
+      "name": {
+        "en": "Abiy Ahmed",
+        "zh": "阿比·艾哈迈德",
+        "de": "Abiy Ahmed",
+        "es": "Abiy Ahmed"
+      },
+      "country": {
+        "en": "Ethiopia",
+        "zh": "埃塞俄比亚",
+        "de": "Äthiopien",
+        "es": "Etiopía"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "FJI_SitiveniRabuka_current_21st_century",
+      "name": {
+        "en": "Sitiveni Rabuka",
+        "zh": "西蒂韦尼·兰布卡",
+        "de": "Sitiveni Rabuka",
+        "es": "Sitiveni Rabuka"
+      },
+      "country": {
+        "en": "Fiji",
+        "zh": "斐济",
+        "de": "Fidschi",
+        "es": "Fiyi"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "FIN_PetteriOrpo_current_21st_century",
+      "name": {
+        "en": "Petteri Orpo",
+        "zh": "彼得里·奥尔波",
+        "de": "Petteri Orpo",
+        "es": "Petteri Orpo"
+      },
+      "country": {
+        "en": "Finland",
+        "zh": "芬兰",
+        "de": "Finnland",
+        "es": "Finlandia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "FRA_EmmanuelMacron_current_21st_century",
+      "name": {
+        "en": "Emmanuel Macron",
+        "zh": "埃马纽埃尔·马克龙",
+        "de": "Emmanuel Macron",
+        "es": "Emmanuel Macron"
+      },
+      "country": {
+        "en": "France",
+        "zh": "法国",
+        "de": "Frankreich",
+        "es": "Francia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "GAB_BriceOliguiNguema_current_21st_century",
+      "name": {
+        "en": "Brice Oligui Nguema",
+        "zh": "布里斯·奥利吉·恩圭马",
+        "de": "Brice Oligui Nguema",
+        "es": "Brice Oligui Nguema"
+      },
+      "country": {
+        "en": "Gabon",
+        "zh": "加蓬",
+        "de": "Gabun",
+        "es": "Gabón"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "GMB_AdamaBarrow_current_21st_century",
+      "name": {
+        "en": "Adama Barrow",
+        "zh": "阿达马·巴罗",
+        "de": "Adama Barrow",
+        "es": "Adama Barrow"
+      },
+      "country": {
+        "en": "Gambia",
+        "zh": "冈比亚",
+        "de": "Gambia",
+        "es": "Gambia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "GEO_IrakliKobakhidze_current_21st_century",
+      "name": {
+        "en": "Irakli Kobakhidze",
+        "zh": "伊拉克利·科巴希泽",
+        "de": "Irakli Kobachidse",
+        "es": "Irakli Kobakhidze"
+      },
+      "country": {
+        "en": "Georgia",
+        "zh": "格鲁吉亚",
+        "de": "Georgien",
+        "es": "Georgia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "DEU_OlafScholz_current_21st_century",
+      "name": {
+        "en": "Olaf Scholz",
+        "zh": "奥拉夫·朔尔茨",
+        "de": "Olaf Scholz",
+        "es": "Olaf Scholz"
+      },
+      "country": {
+        "en": "Germany",
+        "zh": "德国",
+        "de": "Deutschland",
+        "es": "Alemania"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "GHA_JohnMahama_current_21st_century",
+      "name": {
+        "en": "John Mahama",
+        "zh": "约翰·马哈马",
+        "de": "John Mahama",
+        "es": "John Mahama"
+      },
+      "country": {
+        "en": "Ghana",
+        "zh": "加纳",
+        "de": "Ghana",
+        "es": "Ghana"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "GRC_KyriakosMitsotakis_current_21st_century",
+      "name": {
+        "en": "Kyriakos Mitsotakis",
+        "zh": "基里亚科斯·米佐塔基斯",
+        "de": "Kyriakos Mitsotakis",
+        "es": "Kyriakos Mitsotakis"
+      },
+      "country": {
+        "en": "Greece",
+        "zh": "希腊",
+        "de": "Griechenland",
+        "es": "Grecia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "GRD_DickonMitchell_current_21st_century",
+      "name": {
+        "en": "Dickon Mitchell",
+        "zh": "迪肯·米切尔",
+        "de": "Dickon Mitchell",
+        "es": "Dickon Mitchell"
+      },
+      "country": {
+        "en": "Grenada",
+        "zh": "格林纳达",
+        "de": "Grenada",
+        "es": "Granada"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "GTM_BernardoArévalo_current_21st_century",
+      "name": {
+        "en": "Bernardo Arévalo",
+        "zh": "贝尔纳多·阿雷瓦洛",
+        "de": "Bernardo Arévalo",
+        "es": "Bernardo Arévalo"
+      },
+      "country": {
+        "en": "Guatemala",
+        "zh": "危地马拉",
+        "de": "Guatemala",
+        "es": "Guatemala"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "GIN_MamadyDoumbouya_current_21st_century",
+      "name": {
+        "en": "Mamady Doumbouya",
+        "zh": "马马迪·敦布亚",
+        "de": "Mamady Doumbouya",
+        "es": "Mamady Doumbouya"
+      },
+      "country": {
+        "en": "Guinea",
+        "zh": "几内亚",
+        "de": "Guinea",
+        "es": "Guinea"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "GNB_UmaroSissocoEmbaló_current_21st_century",
+      "name": {
+        "en": "Umaro Sissoco Embaló",
+        "zh": "乌马罗·西索科·恩巴洛",
+        "de": "Umaro Sissoco Embaló",
+        "es": "Umaro Sissoco Embaló"
+      },
+      "country": {
+        "en": "Guinea-Bissau",
+        "zh": "几内亚比绍",
+        "de": "Guinea-Bissau",
+        "es": "Guinea-Bisáu"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "GUY_IrfaanAli_current_21st_century",
+      "name": {
+        "en": "Irfaan Ali",
+        "zh": "伊尔法恩·阿里",
+        "de": "Irfaan Ali",
+        "es": "Irfaan Ali"
+      },
+      "country": {
+        "en": "Guyana",
+        "zh": "圭亚那",
+        "de": "圭亚那",
+        "es": "Guyana"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "HTI_FritzJean_current_21st_century",
+      "name": {
+        "en": "Fritz Jean",
+        "zh": "弗里茨·让",
+        "de": "Fritz Jean",
+        "es": "Fritz Jean"
+      },
+      "country": {
+        "en": "Haiti",
+        "zh": "海地",
+        "de": "Haiti",
+        "es": "Haití"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "HND_XiomaraCastro_current_21st_century",
+      "name": {
+        "en": "Xiomara Castro",
+        "zh": "希奥玛拉·卡斯特罗",
+        "de": "Xiomara Castro",
+        "es": "Xiomara Castro"
+      },
+      "country": {
+        "en": "Honduras",
+        "zh": "洪都拉斯",
+        "de": "Honduras",
+        "es": "Honduras"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "HUN_ViktorOrbán_current_21st_century",
+      "name": {
+        "en": "Viktor Orbán",
+        "zh": "欧尔班·维克托",
+        "de": "Viktor Orbán",
+        "es": "Viktor Orbán"
+      },
+      "country": {
+        "en": "Hungary",
+        "zh": "匈牙利",
+        "de": "Ungarn",
+        "es": "Hungría"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "ISL_KristrúnFrostadóttir_current_21st_century",
+      "name": {
+        "en": "Kristrún Frostadóttir",
+        "zh": "克里斯特伦·弗罗斯塔多蒂尔",
+        "de": "Kristrún Frostadóttir",
+        "es": "Kristrún Frostadóttir"
+      },
+      "country": {
+        "en": "Iceland",
+        "zh": "冰岛",
+        "de": "Island",
+        "es": "Islandia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "IND_NarendraModi_current_21st_century",
+      "name": {
+        "en": "Narendra Modi",
+        "zh": "纳伦德拉·莫迪",
+        "de": "Narendra Modi",
+        "es": "Narendra Modi"
+      },
+      "country": {
+        "en": "India",
+        "zh": "印度",
+        "de": "Indien",
+        "es": "India"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "IDN_PrabowoSubianto_current_21st_century",
+      "name": {
+        "en": "Prabowo Subianto",
+        "zh": "普拉博沃·苏比安托",
+        "de": "Prabowo Subianto",
+        "es": "Prabowo Subianto"
+      },
+      "country": {
+        "en": "Indonesia",
+        "zh": "印度尼西亚",
+        "de": "Indonesien",
+        "es": "Indonesia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "IRN_AliKhamenei_current_21st_century",
+      "name": {
+        "en": "Ali Khamenei",
+        "zh": "阿里·哈梅内伊",
+        "de": "Ali Chamenei",
+        "es": "Ali Jamenei"
+      },
+      "country": {
+        "en": "Iran",
+        "zh": "伊朗",
+        "de": "Iran",
+        "es": "Irán"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "IRQ_MohammedShiaAlSudani_current_21st_century",
+      "name": {
+        "en": "Mohammed Shia' Al Sudani",
+        "zh": "穆罕默德·希亚·苏达尼",
+        "de": "Mohammed Shia' Al Sudani",
+        "es": "Mohammed Shia' Al Sudani"
+      },
+      "country": {
+        "en": "Iraq",
+        "zh": "伊拉克",
+        "de": "Irak",
+        "es": "Irak"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "IRL_MicheálMartin_current_21st_century",
+      "name": {
+        "en": "Micheál Martin",
+        "zh": "米歇尔·马丁",
+        "de": "Micheál Martin",
+        "es": "Micheál Martin"
+      },
+      "country": {
+        "en": "Ireland",
+        "zh": "爱尔兰",
+        "de": "Irland",
+        "es": "Irlanda"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "ISR_BenjaminNetanyahu_current_21st_century",
+      "name": {
+        "en": "Benjamin Netanyahu",
+        "zh": "本雅明·内塔尼亚胡",
+        "de": "Benjamin Netanjahu",
+        "es": "Benjamin Netanyahu"
+      },
+      "country": {
+        "en": "Israel",
+        "zh": "以色列",
+        "de": "Israel",
+        "es": "Israel"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "ITA_GiorgiaMeloni_current_21st_century",
+      "name": {
+        "en": "Giorgia Meloni",
+        "zh": "乔治亚·梅洛尼",
+        "de": "Giorgia Meloni",
+        "es": "Giorgia Meloni"
+      },
+      "country": {
+        "en": "Italy",
+        "zh": "意大利",
+        "de": "Italien",
+        "es": "Italia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "CIV_AlassaneOuattara_current_21st_century",
+      "name": {
+        "en": "Alassane Ouattara",
+        "zh": "阿拉萨内·瓦塔拉",
+        "de": "Alassane Ouattara",
+        "es": "Alassane Ouattara"
+      },
+      "country": {
+        "en": "Ivory Coast",
+        "zh": "科特迪瓦",
+        "de": "Elfenbeinküste",
+        "es": "Costa de Marfil"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "JAM_AndrewHolness_current_21st_century",
+      "name": {
+        "en": "Andrew Holness",
+        "zh": "安德鲁·霍尼斯",
+        "de": "Andrew Holness",
+        "es": "Andrew Holness"
+      },
+      "country": {
+        "en": "Jamaica",
+        "zh": "牙买加",
+        "de": "Jamaika",
+        "es": "Jamaica"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "JPN_ShigeruIshiba_current_21st_century",
+      "name": {
+        "en": "Shigeru Ishiba",
+        "zh": "石破茂",
+        "de": "Shigeru Ishiba",
+        "es": "Shigeru Ishiba"
+      },
+      "country": {
+        "en": "Japan",
+        "zh": "日本",
+        "de": "Japan",
+        "es": "Japón"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "JOR_AbdullahII_current_21st_century",
+      "name": {
+        "en": "Abdullah II",
+        "zh": "阿卜杜拉二世",
+        "de": "Abdullah II.",
+        "es": "Abdullah II"
+      },
+      "country": {
+        "en": "Jordan",
+        "zh": "约旦",
+        "de": "Jordanien",
+        "es": "Jordania"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "KAZ_KassymJomartTokayev_current_21st_century",
+      "name": {
+        "en": "Kassym-Jomart Tokayev",
+        "zh": "卡西姆若马尔特·托卡耶夫",
+        "de": "Kassym-Schomart Tokajew",
+        "es": "Kassym-Jomart Tokayev"
+      },
+      "country": {
+        "en": "Kazakhstan",
+        "zh": "哈萨克斯坦",
+        "de": "Kasachstan",
+        "es": "Kazajistán"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "KEN_WilliamRuto_current_21st_century",
+      "name": {
+        "en": "William Ruto",
+        "zh": "威廉·鲁托",
+        "de": "William Ruto",
+        "es": "William Ruto"
+      },
+      "country": {
+        "en": "Kenya",
+        "zh": "肯尼亚",
+        "de": "Kenia",
+        "es": "Kenia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "KIR_TanetiMaamau_current_21st_century",
+      "name": {
+        "en": "Taneti Maamau",
+        "zh": "塔内蒂·马毛",
+        "de": "Taneti Maamau",
+        "es": "Taneti Maamau"
+      },
+      "country": {
+        "en": "Kiribati",
+        "zh": "基里巴斯",
+        "de": "Kiribati",
+        "es": "Kiribati"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "KOR_HanDucksoo_current_21st_century",
+      "name": {
+        "en": "Han Duck-soo",
+        "zh": "韩德洙",
+        "de": "Han Duck-soo",
+        "es": "Han Duck-soo"
+      },
+      "country": {
+        "en": "Korea, South",
+        "zh": "韩国",
+        "de": "Südkorea",
+        "es": "Corea del Sur"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "RKS_AlbinKurti_current_21st_century",
+      "name": {
+        "en": "Albin Kurti",
+        "zh": "阿尔宾·库尔蒂",
+        "de": "Albin Kurti",
+        "es": "Albin Kurti"
+      },
+      "country": {
+        "en": "Kosovo",
+        "zh": "科索沃",
+        "de": "Kosovo",
+        "es": "Kosovo"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "KWT_MishalAlAhmadAlJaberAlSabah_current_21st_century",
+      "name": {
+        "en": "Mishal Al-Ahmad Al-Jaber Al-Sabah",
+        "zh": "米沙勒·艾哈迈德·贾比尔·萨巴赫",
+        "de": "Mischal al-Ahmad al-Dschabir as-Sabah",
+        "es": "Mishal Al-Ahmad Al-Jaber Al-Sabah"
+      },
+      "country": {
+        "en": "Kuwait",
+        "zh": "科威特",
+        "de": "Kuwait",
+        "es": "Kuwait"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "KGZ_SadyrJaparov_current_21st_century",
+      "name": {
+        "en": "Sadyr Japarov",
+        "zh": "萨德尔·扎帕罗夫",
+        "de": "Sadyr Dschaparow",
+        "es": "Sadyr Zhaparov"
+      },
+      "country": {
+        "en": "Kyrgyzstan",
+        "zh": "吉尔吉斯斯坦",
+        "de": "Kirgisistan",
+        "es": "Kirguistán"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "LAO_ThonglounSisoulith_current_21st_century",
+      "name": {
+        "en": "Thongloun Sisoulith",
+        "zh": "通伦·西苏里",
+        "de": "Thongloun Sisoulith",
+        "es": "Thongloun Sisoulith"
+      },
+      "country": {
+        "en": "Laos",
+        "zh": "老挝",
+        "de": "Laos",
+        "es": "Laos"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "LVA_EvikaSiliņa_current_21st_century",
+      "name": {
+        "en": "Evika Siliņa",
+        "zh": "埃维卡·西利尼亚",
+        "de": "Evika Siliņa",
+        "es": "Evika Siliņa"
+      },
+      "country": {
+        "en": "Latvia",
+        "zh": "拉脱维亚",
+        "de": "Lettland",
+        "es": "Letonia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "LBN_NawafSalam_current_21st_century",
+      "name": {
+        "en": "Nawaf Salam",
+        "zh": "纳瓦夫·萨拉姆",
+        "de": "Nawaf Salam",
+        "es": "Nawaf Salam"
+      },
+      "country": {
+        "en": "Lebanon",
+        "zh": "黎巴嫩",
+        "de": "Libanon",
+        "es": "Líbano"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "LSO_SamuelMatekane_current_21st_century",
+      "name": {
+        "en": "Samuel Matekane",
+        "zh": "萨姆·马特卡恩",
+        "de": "Samuel Matekane",
+        "es": "Samuel Matekane"
+      },
+      "country": {
+        "en": "Lesotho",
+        "zh": "莱索托",
+        "de": "莱索托",
+        "es": "Lesoto"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "LBR_JosephBoakai_current_21st_century",
+      "name": {
+        "en": "Joseph Boakai",
+        "zh": "约瑟夫·博阿凯",
+        "de": "Joseph Boakai",
+        "es": "Joseph Boakai"
+      },
+      "country": {
+        "en": "Liberia",
+        "zh": "利比里亚",
+        "de": "利比里亚",
+        "es": "Liberia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "LBY_AbdulHamidDbeibeh_current_21st_century",
+      "name": {
+        "en": "Abdul Hamid Dbeibeh",
+        "zh": "阿卜杜勒·哈米德·德贝巴",
+        "de": "Abdul Hamid Dbeibeh",
+        "es": "Abdul Hamid Dbeibé"
+      },
+      "country": {
+        "en": "Libya",
+        "zh": "利比亚",
+        "de": "Libyen",
+        "es": "Libia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "LIE_HansAdamII_current_21st_century",
+      "name": {
+        "en": "Hans-Adam II",
+        "zh": "汉斯-亚当二世",
+        "de": "Hans-Adam II.",
+        "es": "Juan Adán II"
+      },
+      "country": {
+        "en": "Liechtenstein",
+        "zh": "列支敦士登",
+        "de": "列支敦士登",
+        "es": "Liechtenstein"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "LTU_GintautasPaluckas_current_21st_century",
+      "name": {
+        "en": "Gintautas Paluckas",
+        "zh": "金陶塔斯·帕卢卡斯",
+        "de": "Gintautas Paluckas",
+        "es": "Gintautas Paluckas"
+      },
+      "country": {
+        "en": "Lithuania",
+        "zh": "立陶宛",
+        "de": "Litauen",
+        "es": "Lituania"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "LUX_LucFrieden_current_21st_century",
+      "name": {
+        "en": "Luc Frieden",
+        "zh": "吕克·弗里登",
+        "de": "Luc Frieden",
+        "es": "Luc Frieden"
+      },
+      "country": {
+        "en": "Luxembourg",
+        "zh": "卢森堡",
+        "de": "卢森堡",
+        "es": "Luxemburgo"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MDG_AndryRajoelina_current_21st_century",
+      "name": {
+        "en": "Andry Rajoelina",
+        "zh": "安德里·拉乔利纳",
+        "de": "Andry Rajoelina",
+        "es": "Andry Rajoelina"
+      },
+      "country": {
+        "en": "Madagascar",
+        "zh": "马达加斯加",
+        "de": "马达加斯加",
+        "es": "Madagascar"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MWI_LazarusChakwera_current_21st_century",
+      "name": {
+        "en": "Lazarus Chakwera",
+        "zh": "拉扎勒斯·查克维拉",
+        "de": "Lazarus Chakwera",
+        "es": "Lazarus Chakwera"
+      },
+      "country": {
+        "en": "Malawi",
+        "zh": "马拉维",
+        "de": "马拉维",
+        "es": "Malaui"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MYS_AnwarIbrahim_current_21st_century",
+      "name": {
+        "en": "Anwar Ibrahim",
+        "zh": "安瓦尔·易卜拉欣",
+        "de": "Anwar Ibrahim",
+        "es": "Anwar Ibrahim"
+      },
+      "country": {
+        "en": "Malaysia",
+        "zh": "马来西亚",
+        "de": "马来西亚",
+        "es": "Malasia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MDV_MohamedMuizzu_current_21st_century",
+      "name": {
+        "en": "Mohamed Muizzu",
+        "zh": "穆罕默德·穆伊祖",
+        "de": "Mohamed Muizzu",
+        "es": "Mohamed Muizzu"
+      },
+      "country": {
+        "en": "Maldives",
+        "zh": "马尔代夫",
+        "de": "Malediven",
+        "es": "Maldivas"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MLI_AssimiGoïta_current_21st_century",
+      "name": {
+        "en": "Assimi Goïta",
+        "zh": "阿西米·戈伊塔",
+        "de": "Assimi Goïta",
+        "es": "Assimi Goïta"
+      },
+      "country": {
+        "en": "Mali",
+        "zh": "马里",
+        "de": "Mali",
+        "es": "Malí"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MLT_RobertAbela_current_21st_century",
+      "name": {
+        "en": "Robert Abela",
+        "zh": "罗伯特·阿贝拉",
+        "de": "Robert Abela",
+        "es": "Robert Abela"
+      },
+      "country": {
+        "en": "Malta",
+        "zh": "马耳他",
+        "de": "马耳他",
+        "es": "Malta"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MHL_HildaHeine_current_21st_century",
+      "name": {
+        "en": "Hilda Heine",
+        "zh": "希尔达·海因",
+        "de": "Hilda Heine",
+        "es": "Hilda Heine"
+      },
+      "country": {
+        "en": "Marshall Islands",
+        "zh": "马绍尔群岛",
+        "de": "马绍尔群岛",
+        "es": "Islas Marshall"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MRT_MohamedOuldGhazaouani_current_21st_century",
+      "name": {
+        "en": "Mohamed Ould Ghazaouani",
+        "zh": "穆罕默德·乌尔德·加扎瓦尼",
+        "de": "Mohamed Ould Ghazouani",
+        "es": "Mohamed Ould Ghazouani"
+      },
+      "country": {
+        "en": "Mauritania",
+        "zh": "毛里塔尼亚",
+        "de": "Mauretanien",
+        "es": "Mauritania"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MUS_NavinRamgoolam_current_21st_century",
+      "name": {
+        "en": "Navin Ramgoolam",
+        "zh": "纳文·拉姆古兰",
+        "de": "Navin Ramgoolam",
+        "es": "Navin Ramgoolam"
+      },
+      "country": {
+        "en": "Mauritius",
+        "zh": "毛里求斯",
+        "de": "毛里求斯",
+        "es": "Mauricio"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MEX_ClaudiaSheinbaum_current_21st_century",
+      "name": {
+        "en": "Claudia Sheinbaum",
+        "zh": "克劳迪娅·辛鲍姆",
+        "de": "Claudia Sheinbaum",
+        "es": "Claudia Sheinbaum"
+      },
+      "country": {
+        "en": "Mexico",
+        "zh": "墨西哥",
+        "de": "Mexiko",
+        "es": "México"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "FSM_WesleySimina_current_21st_century",
+      "name": {
+        "en": "Wesley Simina",
+        "zh": "韦斯利·西米纳",
+        "de": "Wesley Simina",
+        "es": "Wesley Simina"
+      },
+      "country": {
+        "en": "Micronesia",
+        "zh": "密克罗尼西亚",
+        "de": "密克罗尼西亚",
+        "es": "Micronesia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MDA_DorinRecean_current_21st_century",
+      "name": {
+        "en": "Dorin Recean",
+        "zh": "多林·雷切安",
+        "de": "Dorin Recean",
+        "es": "Dorin Recean"
+      },
+      "country": {
+        "en": "Moldova",
+        "zh": "摩尔多瓦",
+        "de": "Moldau",
+        "es": "Moldavia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MCO_AlbertII_current_21st_century",
+      "name": {
+        "en": "Albert II",
+        "zh": "阿尔贝二世",
+        "de": "Albert II.",
+        "es": "Alberto II"
+      },
+      "country": {
+        "en": "Monaco",
+        "zh": "摩纳哥",
+        "de": "摩纳哥",
+        "es": "Mónaco"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MNG_LuvsannamsrainOyunErdene_current_21st_century",
+      "name": {
+        "en": "Luvsannamsrain Oyun-Erdene",
+        "zh": "罗布森南斯莱·奥云额尔登",
+        "de": "Luvsannamsrain Oyun-Erdene",
+        "es": "Luvsannamsrain Oyun-Erdene"
+      },
+      "country": {
+        "en": "Mongolia",
+        "zh": "蒙古",
+        "de": "蒙古",
+        "es": "Mongolia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MNE_MilojkoSpajić_current_21st_century",
+      "name": {
+        "en": "Milojko Spajić",
+        "zh": "米洛伊科·斯帕伊奇",
+        "de": "Milojko Spajić",
+        "es": "Milojko Spajić"
+      },
+      "country": {
+        "en": "Montenegro",
+        "zh": "黑山",
+        "de": "黑山",
+        "es": "Montenegro"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MAR_MohammedVI_current_21st_century",
+      "name": {
+        "en": "Mohammed VI",
+        "zh": "穆罕默德六世",
+        "de": "Mohammed VI.",
+        "es": "Mohammed VI"
+      },
+      "country": {
+        "en": "Morocco",
+        "zh": "摩洛哥",
+        "de": "Marokko",
+        "es": "Marruecos"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MOZ_DanielChapo_current_21st_century",
+      "name": {
+        "en": "Daniel Chapo",
+        "zh": "丹尼尔·查波",
+        "de": "Daniel Chapo",
+        "es": "Daniel Chapo"
+      },
+      "country": {
+        "en": "Mozambique",
+        "zh": "莫桑比克",
+        "de": "莫桑比克",
+        "es": "Mozambique"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MMR_MinAungHlaing_current_21st_century",
+      "name": {
+        "en": "Min Aung Hlaing",
+        "zh": "敏昂莱",
+        "de": "Min Aung Hlaing",
+        "es": "Min Aung Hlaing"
+      },
+      "country": {
+        "en": "Myanmar",
+        "zh": "缅甸",
+        "de": "Myanmar",
+        "es": "Birmania"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "NAM_NetumboNandiNdaitwah_current_21st_century",
+      "name": {
+        "en": "Netumbo Nandi-Ndaitwah",
+        "zh": "内通博·南迪-恩代特瓦",
+        "de": "Netumbo Nandi-Ndaitwah",
+        "es": "Netumbo Nandi-Ndaitwah"
+      },
+      "country": {
+        "en": "Namibia",
+        "zh": "纳米比亚",
+        "de": "纳米比亚",
+        "es": "Namibia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "NRU_DavidAdeang_current_21st_century",
+      "name": {
+        "en": "David Adeang",
+        "zh": "戴维·阿迪昂",
+        "de": "David Adeang",
+        "es": "David Adeang"
+      },
+      "country": {
+        "en": "Nauru",
+        "zh": "瑙鲁",
+        "de": "瑙鲁",
+        "es": "Nauru"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "NPL_K.P.SharmaOli_current_21st_century",
+      "name": {
+        "en": "K. P. Sharma Oli",
+        "zh": "卡德加·普拉萨德·夏尔马·奥利",
+        "de": "K. P. Sharma Oli",
+        "es": "K. P. Sharma Oli"
+      },
+      "country": {
+        "en": "Nepal",
+        "zh": "尼泊尔",
+        "de": "尼泊尔",
+        "es": "Nepal"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "NLD_DickSchoof_current_21st_century",
+      "name": {
+        "en": "Dick Schoof",
+        "zh": "迪克·舍夫",
+        "de": "Dick Schoof",
+        "es": "Dick Schoof"
+      },
+      "country": {
+        "en": "Netherlands",
+        "zh": "荷兰",
+        "de": "尼德兰",
+        "es": "Países Bajos"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "NZL_ChristopherLuxon_current_21st_century",
+      "name": {
+        "en": "Christopher Luxon",
+        "zh": "克里斯托弗·卢克森",
+        "de": "Christopher Luxon",
+        "es": "Christopher Luxon"
+      },
+      "country": {
+        "en": "New Zealand",
+        "zh": "新西兰",
+        "de": "Neuseeland",
+        "es": "Nueva Zelanda"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "NIC_DanielOrtega_current_21st_century",
+      "name": {
+        "en": "Daniel Ortega",
+        "zh": "丹尼尔·奥尔特加",
+        "de": "Daniel Ortega",
+        "es": "Daniel Ortega"
+      },
+      "country": {
+        "en": "Nicaragua",
+        "zh": "尼加拉瓜",
+        "de": "尼加拉瓜",
+        "es": "Nicaragua"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "NER_AbdourahamaneTchiani_current_21st_century",
+      "name": {
+        "en": "Abdourahamane Tchiani",
+        "zh": "阿卜杜拉哈曼·奇亚尼",
+        "de": "Abdourahamane Tchiani",
+        "es": "Abdourahamane Tchiani"
+      },
+      "country": {
+        "en": "Niger",
+        "zh": "尼日尔",
+        "de": "尼日尔",
+        "es": "Níger"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "NGA_BolaTinubu_current_21st_century",
+      "name": {
+        "en": "Bola Tinubu",
+        "zh": "博拉·蒂努布",
+        "de": "Bola Tinubu",
+        "es": "Bola Tinubu"
+      },
+      "country": {
+        "en": "Nigeria",
+        "zh": "尼日利亚",
+        "de": "尼日利亚",
+        "es": "Nigeria"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "PRK_KimJongUn_current_21st_century",
+      "name": {
+        "en": "Kim Jong Un",
+        "zh": "金正恩",
+        "de": "Kim Jong-un",
+        "es": "Kim Jong Un"
+      },
+      "country": {
+        "en": "North Korea",
+        "zh": "朝鲜",
+        "de": "朝鲜",
+        "es": "Corea del Norte"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "MKD_HristijanMickoski_current_21st_century",
+      "name": {
+        "en": "Hristijan Mickoski",
+        "zh": "赫里斯蒂扬·米茨科斯基",
+        "de": "Hristijan Mickoski",
+        "es": "Hristijan Mickoski"
+      },
+      "country": {
+        "en": "North Macedonia",
+        "zh": "北马其顿",
+        "de": "北马其顿",
+        "es": "Macedonia del Norte"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "NOR_JonasGahrStøre_current_21st_century",
+      "name": {
+        "en": "Jonas Gahr Støre",
+        "zh": "约纳斯·加尔·斯特勒",
+        "de": "Jonas Gahr Støre",
+        "es": "Jonas Gahr Støre"
+      },
+      "country": {
+        "en": "Norway",
+        "zh": "挪威",
+        "de": "挪威",
+        "es": "Noruega"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "OMN_SultanHaithambinTariq_current_21st_century",
+      "name": {
+        "en": "Sultan Haitham bin Tariq",
+        "zh": "苏丹海赛姆·本·塔里克",
+        "de": "Sultan Haitham bin Tariq",
+        "es": "Sultán Haitham bin Tariq"
+      },
+      "country": {
+        "en": "Oman",
+        "zh": "阿曼",
+        "de": "阿曼",
+        "es": "Omán"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "PAK_ShehbazSharif_current_21st_century",
+      "name": {
+        "en": "Shehbaz Sharif",
+        "zh": "夏巴兹·谢里夫",
+        "de": "Shehbaz Sharif",
+        "es": "Shehbaz Sharif"
+      },
+      "country": {
+        "en": "Pakistan",
+        "zh": "巴基斯坦",
+        "de": "巴基斯坦",
+        "es": "Pakistán"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "PLW_SurangelWhippsJr._current_21st_century",
+      "name": {
+        "en": "Surangel Whipps Jr.",
+        "zh": "小苏兰格尔·惠普斯",
+        "de": "Surangel Whipps Jr.",
+        "es": "Surangel Whipps Jr."
+      },
+      "country": {
+        "en": "Palau",
+        "zh": "帕劳",
+        "de": "帕劳",
+        "es": "Palaos"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "PAN_JoséRaúlMulino_current_21st_century",
+      "name": {
+        "en": "José Raúl Mulino",
+        "zh": "何塞·劳尔·穆利诺",
+        "de": "José Raúl Mulino",
+        "es": "José Raúl Mulino"
+      },
+      "country": {
+        "en": "Panama",
+        "zh": "巴拿马",
+        "de": "巴拿马",
+        "es": "Panamá"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "PNG_JamesMarape_current_21st_century",
+      "name": {
+        "en": "James Marape",
+        "zh": "詹姆斯·马拉佩",
+        "de": "James Marape",
+        "es": "James Marape"
+      },
+      "country": {
+        "en": "Papua New Guinea",
+        "zh": "巴布亚新几内亚",
+        "de": "巴布亚新几内亚",
+        "es": "Papúa Nueva Guinea"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "PRY_SantiagoPeña_current_21st_century",
+      "name": {
+        "en": "Santiago Peña",
+        "zh": "圣地亚哥·培尼亚",
+        "de": "Santiago Peña",
+        "es": "Santiago Peña"
+      },
+      "country": {
+        "en": "Paraguay",
+        "zh": "巴拉圭",
+        "de": "巴拉圭",
+        "es": "Paraguay"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "PER_DinaBoluarte_current_21st_century",
+      "name": {
+        "en": "Dina Boluarte",
+        "zh": "迪娜·博卢阿尔特",
+        "de": "Dina Boluarte",
+        "es": "Dina Boluarte"
+      },
+      "country": {
+        "en": "Peru",
+        "zh": "秘鲁",
+        "de": "秘鲁",
+        "es": "Perú"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "PHL_FerdinandMarcosJr._current_21st_century",
+      "name": {
+        "en": "Ferdinand Marcos Jr.",
+        "zh": "小费迪南德·马科斯",
+        "de": "Ferdinand Marcos Jr.",
+        "es": "Ferdinand Marcos Jr."
+      },
+      "country": {
+        "en": "Philippines",
+        "zh": "菲律宾",
+        "de": "菲律宾",
+        "es": "Filipinas"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "POL_DonaldTusk_current_21st_century",
+      "name": {
+        "en": "Donald Tusk",
+        "zh": "唐纳德·图斯克",
+        "de": "Donald Tusk",
+        "es": "Donald Tusk"
+      },
+      "country": {
+        "en": "Poland",
+        "zh": "波兰",
+        "de": "波兰",
+        "es": "Polonia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "PRT_LuísMontenegro_current_21st_century",
+      "name": {
+        "en": "Luís Montenegro",
+        "zh": "路易斯·蒙特内格罗",
+        "de": "Luís Montenegro",
+        "es": "Luís Montenegro"
+      },
+      "country": {
+        "en": "Portugal",
+        "zh": "葡萄牙",
+        "de": "葡萄牙",
+        "es": "Portugal"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "QAT_TaminbinHamadAlThani_current_21st_century",
+      "name": {
+        "en": "Tamin bin Hamad Al Thani",
+        "zh": "塔米姆·本·哈马德·阿勒萨尼",
+        "de": "Tamim bin Hamad Al Thani",
+        "es": "Tamim bin Hamad Al Thani"
+      },
+      "country": {
+        "en": "Qatar",
+        "zh": "卡塔尔",
+        "de": "卡塔尔",
+        "es": "Catar"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "ROU_IlieBolojan_current_21st_century",
+      "name": {
+        "en": "Ilie Bolojan",
+        "zh": "伊利耶·博洛扬",
+        "de": "Ilie Bolojan",
+        "es": "Ilie Bolojan"
+      },
+      "country": {
+        "en": "Romania",
+        "zh": "罗马尼亚",
+        "de": "罗马尼亚",
+        "es": "Rumanía"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "RUS_VladimirPutin_current_21st_century",
+      "name": {
+        "en": "Vladimir Putin",
+        "zh": "弗拉基米尔·普京",
+        "de": "Wladimir Putin",
+        "es": "Vladímir Putin"
+      },
+      "country": {
+        "en": "Russia",
+        "zh": "俄罗斯",
+        "de": "俄罗斯",
+        "es": "Rusia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "RWA_PaulKagame_current_21st_century",
+      "name": {
+        "en": "Paul Kagame",
+        "zh": "保罗·卡加梅",
+        "de": "Paul Kagame",
+        "es": "Paul Kagame"
+      },
+      "country": {
+        "en": "Rwanda",
+        "zh": "卢旺达",
+        "de": "卢旺达",
+        "es": "Ruanda"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "KNA_TerranceDrew_current_21st_century",
+      "name": {
+        "en": "Terrance Drew",
+        "zh": "特伦斯·德鲁",
+        "de": "Terrance Drew",
+        "es": "Terrance Drew"
+      },
+      "country": {
+        "en": "Saint Kitts and Nevis",
+        "zh": "圣基茨和尼维斯",
+        "de": "圣基茨和尼维斯",
+        "es": "San Cristóbal y Nieves"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "LCA_PhilipJPierre_current_21st_century",
+      "name": {
+        "en": "Philip J. Pierre",
+        "zh": "菲利普·J·皮埃尔",
+        "de": "Philip J. Pierre",
+        "es": "Philip J. Pierre"
+      },
+      "country": {
+        "en": "Saint Lucia",
+        "zh": "圣卢西亚",
+        "de": "圣卢西亚",
+        "es": "Santa Lucía"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "VCT_RalphGonsalves_current_21st_century",
+      "name": {
+        "en": "Ralph Gonsalves",
+        "zh": "拉尔夫·冈萨维斯",
+        "de": "Ralph Gonsalves",
+        "es": "Ralph Gonsalves"
+      },
+      "country": {
+        "en": "Saint Vincent and the Grenadines",
+        "zh": "圣文森特和格林纳丁斯",
+        "de": "圣文森特和格林纳丁斯",
+        "es": "San Vicente y las Granadinas"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "WSM_FiamēNaomiMataafa_current_21st_century",
+      "name": {
+        "en": "Fiamē Naomi Mata'afa",
+        "zh": "菲娅梅·内奥米·马塔阿法",
+        "de": "Fiamē Naomi Mata'afa",
+        "es": "Fiamē Naomi Mata'afa"
+      },
+      "country": {
+        "en": "Samoa",
+        "zh": "萨摩亚",
+        "de": "萨摩亚",
+        "es": "Samoa"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SMR_DeniseBronzetti_current_21st_century",
+      "name": {
+        "en": "Denise Bronzetti",
+        "zh": "丹尼斯·布龙泽蒂",
+        "de": "Denise Bronzetti",
+        "es": "Denise Bronzetti"
+      },
+      "country": {
+        "en": "San Marino",
+        "zh": "圣马力诺",
+        "de": "圣马力诺",
+        "es": "San Marino"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "STP_CarlosVilaNova_current_21st_century",
+      "name": {
+        "en": "Carlos Vila Nova",
+        "zh": "卡洛斯·维拉·诺瓦",
+        "de": "Carlos Vila Nova",
+        "es": "Carlos Vila Nova"
+      },
+      "country": {
+        "en": "Sao Tome and Principe",
+        "zh": "圣多美和普林西比",
+        "de": "圣多美和普林西比",
+        "es": "Santo Tomé y Príncipe"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SAU_MohammedbinSalman_current_21st_century",
+      "name": {
+        "en": "Mohammed bin Salman",
+        "zh": "穆罕默德·本·萨勒曼",
+        "de": "Mohammed bin Salman",
+        "es": "Mohammed bin Salmán"
+      },
+      "country": {
+        "en": "Saudi Arabia",
+        "zh": "沙特阿拉伯",
+        "de": "沙特阿拉伯",
+        "es": "Arabia Saudita"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SEN_BassirouDiomayeFaye_current_21st_century",
+      "name": {
+        "en": "Bassirou Diomaye Faye",
+        "zh": "巴西鲁·迪奥马耶·法耶",
+        "de": "Bassirou Diomaye Faye",
+        "es": "Bassirou Diomaye Faye"
+      },
+      "country": {
+        "en": "Senegal",
+        "zh": "塞内加尔",
+        "de": "塞内加尔",
+        "es": "Senegal"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SRB_AleksanderVučić_current_21st_century",
+      "name": {
+        "en": "Aleksander Vučić",
+        "zh": "亚历山大·武契奇",
+        "de": "Aleksandar Vučić",
+        "es": "Aleksandar Vučić"
+      },
+      "country": {
+        "en": "Serbia",
+        "zh": "塞尔维亚",
+        "de": "塞尔维亚",
+        "es": "Serbia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SYC_WavelRamkalawan_current_21st_century",
+      "name": {
+        "en": "Wavel Ramkalawan",
+        "zh": "瓦韦尔·拉姆卡拉旺",
+        "de": "Wavel Ramkalawan",
+        "es": "Wavel Ramkalawan"
+      },
+      "country": {
+        "en": "Seychelles",
+        "zh": "塞舌尔",
+        "de": "塞舌尔",
+        "es": "Seychelles"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SLE_JuliusMaadaBio_current_21st_century",
+      "name": {
+        "en": "Julius Maada Bio",
+        "zh": "朱利叶斯·马达·比奥",
+        "de": "Julius Maada Bio",
+        "es": "Julius Maada Bio"
+      },
+      "country": {
+        "en": "Sierra Leone",
+        "zh": "塞拉利昂",
+        "de": "塞拉利昂",
+        "es": "Sierra Leona"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SGP_LawrenceWong_current_21st_century",
+      "name": {
+        "en": "Lawrence Wong",
+        "zh": "黄循财",
+        "de": "Lawrence Wong",
+        "es": "Lawrence Wong"
+      },
+      "country": {
+        "en": "Singapore",
+        "zh": "新加坡",
+        "de": "新加坡",
+        "es": "Singapur"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SVK_RobertFico_current_21st_century",
+      "name": {
+        "en": "Robert Fico",
+        "zh": "罗伯特·菲佐",
+        "de": "Robert Fico",
+        "es": "Robert Fico"
+      },
+      "country": {
+        "en": "Slovakia",
+        "zh": "斯洛伐克",
+        "de": "斯洛伐克",
+        "es": "Eslovaquia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SVN_RobertGolob_current_21st_century",
+      "name": {
+        "en": "Robert Golob",
+        "zh": "罗伯特·戈洛布",
+        "de": "Robert Golob",
+        "es": "Robert Golob"
+      },
+      "country": {
+        "en": "Slovenia",
+        "zh": "斯洛文尼亚",
+        "de": "斯洛文尼亚",
+        "es": "Eslovenia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SLB_JeremiahManele_current_21st_century",
+      "name": {
+        "en": "Jeremiah Manele",
+        "zh": "杰里迈亚·马内莱",
+        "de": "Jeremiah Manele",
+        "es": "Jeremiah Manele"
+      },
+      "country": {
+        "en": "Solomon Islands",
+        "zh": "所罗门群岛",
+        "de": "所罗门群岛",
+        "es": "Islas Salomón"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SOM_HamzaAbdiBarre_current_21st_century",
+      "name": {
+        "en": "Hamza Abdi Barre",
+        "zh": "哈姆扎·阿卜迪·巴雷",
+        "de": "Hamza Abdi Barre",
+        "es": "Hamza Abdi Barre"
+      },
+      "country": {
+        "en": "Somalia",
+        "zh": "索马里",
+        "de": "索马里",
+        "es": "Somalia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "ZAF_CyrilRamaphosa_current_21st_century",
+      "name": {
+        "en": "Cyril Ramaphosa",
+        "zh": "西里尔·拉马福萨",
+        "de": "Cyril Ramaphosa",
+        "es": "Cyril Ramaphosa"
+      },
+      "country": {
+        "en": "South Africa",
+        "zh": "南非",
+        "de": "南非",
+        "es": "Sudáfrica"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SSD_SalvaKiirMayardit_current_21st_century",
+      "name": {
+        "en": "Salva Kiir Mayardit",
+        "zh": "萨尔瓦·基尔·马亚尔迪特",
+        "de": "Salva Kiir Mayardit",
+        "es": "Salva Kiir Mayardit"
+      },
+      "country": {
+        "en": "South Sudan",
+        "zh": "南苏丹",
+        "de": "南苏丹",
+        "es": "Sudán del Sur"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "ESP_PedroSanchez_current_21st_century",
+      "name": {
+        "en": "Pedro Sanchez",
+        "zh": "佩德罗·桑切斯",
+        "de": "Pedro Sánchez",
+        "es": "Pedro Sánchez"
+      },
+      "country": {
+        "en": "Spain",
+        "zh": "西班牙",
+        "de": "西班牙",
+        "es": "España"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "LKA_AnuraKumaraDissanayake_current_21st_century",
+      "name": {
+        "en": "Anura Kumara Dissanayake",
+        "zh": "阿努拉·库马拉·迪萨纳亚克",
+        "de": "Anura Kumara Dissanayake",
+        "es": "Anura Kumara Dissanayake"
+      },
+      "country": {
+        "en": "Sri Lanka",
+        "zh": "斯里兰卡",
+        "de": "斯里兰卡",
+        "es": "Sri Lanka"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SDN_AbdelFattahalBurhan_current_21st_century",
+      "name": {
+        "en": "Abdel Fattah al-Burhan",
+        "zh": "阿卜杜勒·法塔赫·布尔汉",
+        "de": "Abdel Fattah al-Burhan",
+        "es": "Abdel Fattah al-Burhan"
+      },
+      "country": {
+        "en": "Sudan",
+        "zh": "苏丹",
+        "de": "苏丹",
+        "es": "Sudán"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SUR_ChanSantokhi_current_21st_century",
+      "name": {
+        "en": "Chan Santokhi",
+        "zh": "陈·桑托基",
+        "de": "Chan Santokhi",
+        "es": "Chan Santokhi"
+      },
+      "country": {
+        "en": "Suriname",
+        "zh": "苏里南",
+        "de": "苏里南",
+        "es": "Surinam"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SWE_UlfKristersson_current_21st_century",
+      "name": {
+        "en": "Ulf Kristersson",
+        "zh": "乌尔夫·克里斯特松",
+        "de": "Ulf Kristersson",
+        "es": "Ulf Kristersson"
+      },
+      "country": {
+        "en": "Sweden",
+        "zh": "瑞典",
+        "de": "瑞典",
+        "es": "Suecia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "CHE_KarinKellerSutter_current_21st_century",
+      "name": {
+        "en": "Karin Keller-Sutter",
+        "zh": "卡琳·凯勒-苏特",
+        "de": "Karin Keller-Sutter",
+        "es": "Karin Keller-Sutter"
+      },
+      "country": {
+        "en": "Switzerland",
+        "zh": "瑞士",
+        "de": "瑞士",
+        "es": "Suiza"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "SYR_AhmedalSharaa_current_21st_century",
+      "name": {
+        "en": "Ahmed al-Sharaa",
+        "zh": "艾哈迈德·沙雷",
+        "de": "Ahmed al-Scharaa",
+        "es": "Ahmed al-Sharaa"
+      },
+      "country": {
+        "en": "Syria",
+        "zh": "叙利亚",
+        "de": "叙利亚",
+        "es": "Siria"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "TWN_ChoJungtai_current_21st_century",
+      "name": {
+        "en": "Cho Jung-tai",
+        "zh": "卓荣泰",
+        "de": "Cho Jung-tai",
+        "es": "Cho Jung-tai"
+      },
+      "country": {
+        "en": "Taiwan",
+        "zh": "台湾",
+        "de": "台湾",
+        "es": "Taiwán"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "TJK_EmomaliRahmon_current_21st_century",
+      "name": {
+        "en": "Emomali Rahmon",
+        "zh": "埃莫马利·拉赫蒙",
+        "de": "Emomalij Rahmon",
+        "es": "Emomali Rahmon"
+      },
+      "country": {
+        "en": "Tajikistan",
+        "zh": "塔吉克斯坦",
+        "de": "塔吉克斯坦",
+        "es": "Tayikistán"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "TZA_SamiaSuluhuHassan_current_21st_century",
+      "name": {
+        "en": "Samia Suluhu Hassan",
+        "zh": "萨米娅·苏卢胡·哈桑",
+        "de": "Samia Suluhu Hassan",
+        "es": "Samia Suluhu Hassan"
+      },
+      "country": {
+        "en": "Tanzania",
+        "zh": "坦桑尼亚",
+        "de": "坦桑尼亚",
+        "es": "Tanzania"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "THA_PaetongtarnShinawatra_current_21st_century",
+      "name": {
+        "en": "Paetongtarn Shinawatra",
+        "zh": "佩通坦·西那瓦",
+        "de": "Paetongtarn Shinawatra",
+        "es": "Paetongtarn Shinawatra"
+      },
+      "country": {
+        "en": "Thailand",
+        "zh": "泰国",
+        "de": "泰国",
+        "es": "Tailandia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "TGO_FaureGnassingbé_current_21st_century",
+      "name": {
+        "en": "Faure Gnassingbé",
+        "zh": "福雷·纳辛贝",
+        "de": "Faure Gnassingbé",
+        "es": "Faure Gnassingbé"
+      },
+      "country": {
+        "en": "Togo",
+        "zh": "多哥",
+        "de": "多哥",
+        "es": "Togo"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "TON_AisakeEke_current_21st_century",
+      "name": {
+        "en": "'Aisake Eke",
+        "zh": "艾萨克·埃克",
+        "de": "'Aisake Eke",
+        "es": "'Aisake Eke"
+      },
+      "country": {
+        "en": "Tonga",
+        "zh": "汤加",
+        "de": "汤加",
+        "es": "Tonga"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "TTO_StuartYoung_current_21st_century",
+      "name": {
+        "en": "Stuart Young",
+        "zh": "斯图尔特·杨",
+        "de": "Stuart Young",
+        "es": "Stuart Young"
+      },
+      "country": {
+        "en": "Trinidad and Tobago",
+        "zh": "特立尼达和多巴哥",
+        "de": "特立尼达和多巴哥",
+        "es": "Trinidad y Tobago"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "TUN_KaïsSaïed_current_21st_century",
+      "name": {
+        "en": "Kaïs Saïed",
+        "zh": "凯斯·赛义德",
+        "de": "Kaïs Saïed",
+        "es": "Kaïs Saïed"
+      },
+      "country": {
+        "en": "Tunisia",
+        "zh": "突尼斯",
+        "de": "突尼斯",
+        "es": "Túnez"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "TUR_RecepTayyipErdoğan_current_21st_century",
+      "name": {
+        "en": "Recep Tayyip Erdoğan",
+        "zh": "雷杰普·塔伊普·埃尔多安",
+        "de": "Recep Tayyip Erdoğan",
+        "es": "Recep Tayyip Erdoğan"
+      },
+      "country": {
+        "en": "Turkey",
+        "zh": "土耳其",
+        "de": "土耳其",
+        "es": "Turquía"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "TKM_GurbangulyBerdimuhamedow_current_21st_century",
+      "name": {
+        "en": "Gurbanguly Berdimuhamedow",
+        "zh": "库尔班古力·别尔德穆哈梅多夫",
+        "de": "Gurbanguly Berdimuhamedow",
+        "es": "Gurbanguly Berdimuhamedow"
+      },
+      "country": {
+        "en": "Turkmenistan",
+        "zh": "土库曼斯坦",
+        "de": "土库曼斯坦",
+        "es": "Turkmenistán"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "TUV_FeletiTeo_current_21st_century",
+      "name": {
+        "en": "Feleti Teo",
+        "zh": "费莱蒂·特奥",
+        "de": "Feleti Teo",
+        "es": "Feleti Teo"
+      },
+      "country": {
+        "en": "Tuvalu",
+        "zh": "图瓦卢",
+        "de": "图瓦卢",
+        "es": "Tuvalu"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "UGA_YoweriMuseveni_current_21st_century",
+      "name": {
+        "en": "Yoweri Museveni",
+        "zh": "约韦里·穆塞韦尼",
+        "de": "Yoweri Museveni",
+        "es": "Yoweri Museveni"
+      },
+      "country": {
+        "en": "Uganda",
+        "zh": "乌干达",
+        "de": "乌干达",
+        "es": "Uganda"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "UKR_VolodymyrZelenskyy_current_21st_century",
+      "name": {
+        "en": "Volodymyr Zelenskyy",
+        "zh": "弗拉基米尔·泽连斯基",
+        "de": "Wolodymyr Selenskyj",
+        "es": "Volodímir Zelenski"
+      },
+      "country": {
+        "en": "Ukraine",
+        "zh": "乌克兰",
+        "de": "乌克兰",
+        "es": "Ucrania"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "ARE_MohammedbinZayedAlNahyan_current_21st_century",
+      "name": {
+        "en": "Mohammed bin Zayed Al Nahyan",
+        "zh": "穆罕默德·本·扎耶德·阿勒纳哈扬",
+        "de": "Mohammed bin Zayed Al Nahyan",
+        "es": "Mohammed bin Zayed Al Nahyan"
+      },
+      "country": {
+        "en": "United Arab Emirates",
+        "zh": "阿拉伯联合酋长国",
+        "de": "阿拉伯联合酋长国",
+        "es": "Emiratos Árabes Unidos"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "GBR_KeirStarmer_current_21st_century",
+      "name": {
+        "en": "Keir Starmer",
+        "zh": "基尔·斯塔默",
+        "de": "Keir Starmer",
+        "es": "Keir Starmer"
+      },
+      "country": {
+        "en": "United Kingdom",
+        "zh": "英国",
+        "de": "英国",
+        "es": "Reino Unido"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "USA_DonaldTrump_current_21st_century",
+      "name": {
+        "en": "Donald Trump",
+        "zh": "唐纳德·特朗普",
+        "de": "Donald Trump",
+        "es": "Donald Trump"
+      },
+      "country": {
+        "en": "United States",
+        "zh": "美国",
+        "de": "美国",
+        "es": "Estados Unidos"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "URY_YamandúOrsi_current_21st_century",
+      "name": {
+        "en": "Yamandú Orsi",
+        "zh": "亚马杜·奥尔西",
+        "de": "Yamandú Orsi",
+        "es": "Yamandú Orsi"
+      },
+      "country": {
+        "en": "Uruguay",
+        "zh": "乌拉圭",
+        "de": "乌拉圭",
+        "es": "Uruguay"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Liberal Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "UZB_ShavkatMirziyoyev_current_21st_century",
+      "name": {
+        "en": "Shavkat Mirziyoyev",
+        "zh": "肖开提·米尔则亚耶夫",
+        "de": "Schawkat Mirsijojew",
+        "es": "Shavkat Mirziyoyev"
+      },
+      "country": {
+        "en": "Uzbekistan",
+        "zh": "乌兹别克斯坦",
+        "de": "乌兹别克斯坦",
+        "es": "Uzbekistán"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "VUT_JothamNapat_current_21st_century",
+      "name": {
+        "en": "Jotham Napat",
+        "zh": "乔瑟姆·纳帕特",
+        "de": "Jotham Napat",
+        "es": "Jotham Napat"
+      },
+      "country": {
+        "en": "Vanuatu",
+        "zh": "瓦努阿图",
+        "de": "瓦努阿图",
+        "es": "Vanuatu"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "VAT_PopeFrancis_current_21st_century",
+      "name": {
+        "en": "Pope Francis",
+        "zh": "教皇方济各",
+        "de": "Papst Franziskus",
+        "es": "Papa Francisco"
+      },
+      "country": {
+        "en": "Vatican City",
+        "zh": "梵蒂冈城",
+        "de": "梵蒂冈城",
+        "es": "Ciudad del Vaticano"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "NaN",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "VEN_NicolásMaduro_current_21st_century",
+      "name": {
+        "en": "Nicolás Maduro",
+        "zh": "尼古拉斯·马杜罗",
+        "de": "Nicolás Maduro",
+        "es": "Nicolás Maduro"
+      },
+      "country": {
+        "en": "Venezuela",
+        "zh": "委内瑞拉",
+        "de": "委内瑞拉",
+        "es": "Venezuela"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "VNM_TôLâm_current_21st_century",
+      "name": {
+        "en": "Tô Lâm",
+        "zh": "苏林",
+        "de": "Tô Lâm",
+        "es": "Tô Lâm"
+      },
+      "country": {
+        "en": "Vietnam",
+        "zh": "越南",
+        "de": "越南",
+        "es": "Vietnam"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "YEM_RashadalAlimi_current_21st_century",
+      "name": {
+        "en": "Rashad al-Alimi",
+        "zh": "拉沙德·阿里米",
+        "de": "Rashad al-Alimi",
+        "es": "Rashad al-Alimi"
+      },
+      "country": {
+        "en": "Yemen",
+        "zh": "也门",
+        "de": "也门",
+        "es": "Yemen"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Closed Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "ZMB_HakaindeHichilema_current_21st_century",
+      "name": {
+        "en": "Hakainde Hichilema",
+        "zh": "哈凯恩德·希奇莱马",
+        "de": "Hakainde Hichilema",
+        "es": "Hakainde Hichilema"
+      },
+      "country": {
+        "en": "Zambia",
+        "zh": "赞比亚",
+        "de": "赞比亚",
+        "es": "Zambia"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Democracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    },
+    {
+      "id": "ZWE_EmmersonMnangagwa_current_21st_century",
+      "name": {
+        "en": "Emmerson Mnangagwa",
+        "zh": "埃默森·姆南加古瓦",
+        "de": "Emmerson Mnangagwa",
+        "es": "Emmerson Mnangagwa"
+      },
+      "country": {
+        "en": "Zimbabwe",
+        "zh": "津巴布韦",
+        "de": "津巴布韦",
+        "es": "Zimbabue"
+      },
+      "in_power_since": "NaN",
+      "in_power": "NaN-present",
+      "classification": "Electoral Autocracy",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "NaN"
+    }
+  ]
+}

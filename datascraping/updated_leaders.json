@@ -1,0 +1,1178 @@
+[
+  {
+    "country": "Afghanistan",
+    "leader": "Haybatullah Akhundzada",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Albania",
+    "leader": "Edi Rama",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Algeria",
+    "leader": "Abdelmadjid Tebboune",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Andorra",
+    "leader": "Xavier Espot Zamora",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Angola",
+    "leader": "João Lourenço",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "leader": "Gaston Browne",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Argentina",
+    "leader": "Javier Milei",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Armenia",
+    "leader": "Nikol Pashinyan",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Australia",
+    "leader": "Anthony Albanese",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Austria",
+    "leader": "Christian Stocker",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Azerbaijan",
+    "leader": "Ilham Aliyev",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Bahamas",
+    "leader": "Philip Davis",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Bahrain",
+    "leader": "Hamad bin Isa Al Khalifa",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Bangladesh",
+    "leader": "Mohammed Shahabuddin",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Barbados",
+    "leader": "Mia Mottley",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Belarus",
+    "leader": "Alexander Lukashenko",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Belgium",
+    "leader": "Bart De Wever",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Belize",
+    "leader": "Johnny Briceño",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Benin",
+    "leader": "Patrice Talon",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Bhutan",
+    "leader": "Tshering Tobgay",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Bolivia",
+    "leader": "Luis Arce",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "leader": "Christian Schmidt",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Botswana",
+    "leader": "Duma Boko",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Brazil",
+    "leader": "Luiz Inácio Lula da Silva",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Brunei",
+    "leader": "Hassanal Bolkiah",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Bulgaria",
+    "leader": "Rosen Zhelyazkov",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Burkina Faso",
+    "leader": "Ibrahim Traoré",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Burundi",
+    "leader": "Évariste Ndayishimiye",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Cambodia",
+    "leader": "Hun Manet",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Cameroon",
+    "leader": "Paul Biya",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Canada",
+    "leader": "Mark Carney",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Cape Verde",
+    "leader": "Ulisses Correia e Silva",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Central African Republic",
+    "leader": "Faustin-Archange Touadéra",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Chad",
+    "leader": "Mahamat Déby",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Chile",
+    "leader": "Gabriel Boric",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "China",
+    "leader": "Xi Jinping",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Colombia",
+    "leader": "Gustavo Petro",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Comoros",
+    "leader": "Azali Assoumani",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Congo (Democratic Republic)",
+    "leader": "Félix Tshisekedi",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Congo (Republic)",
+    "leader": "Denis Sassou Nguesso",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Costa Rica",
+    "leader": "Rodrigo Chaves Robles",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Croatia",
+    "leader": "Andrej Plenković",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Cuba",
+    "leader": "Miguel Díaz-Canel",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Cyprus",
+    "leader": "Nikos Christodoulides",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Czech Republic",
+    "leader": "Petr Fiala",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Denmark",
+    "leader": "Mette Frederiksen",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Djibouti",
+    "leader": "Ismaïl Omar Guelleh",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Dominica",
+    "leader": "Roosevelt Skerrit",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Dominican Republic",
+    "leader": "Luis Abinader",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "East Timor",
+    "leader": "Xanana Gusmão",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Ecuador",
+    "leader": "Daniel Noboa",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Egypt",
+    "leader": "Abdel Fattah el-Sisi",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "El Salvador",
+    "leader": "Nayib Bukele",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "leader": "Teodoro Obiang Nguema Mbasogo",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Eritrea",
+    "leader": "Isaias Afworki",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Estonia",
+    "leader": "Kristen Michal",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Eswatini",
+    "leader": "Mswati III",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Ethiopia",
+    "leader": "Abiy Ahmed",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Fiji",
+    "leader": "Sitiveni Rabuka",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Finland",
+    "leader": "Petteri Orpo",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "France",
+    "leader": "Emmanuel Macron",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Gabon",
+    "leader": "Brice Oligui Nguema",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Gambia",
+    "leader": "Adama Barrow",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Georgia",
+    "leader": "Irakli Kobakhidze",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Germany",
+    "leader": "Olaf Scholz",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Ghana",
+    "leader": "John Mahama",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Greece",
+    "leader": "Kyriakos Mitsotakis",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Grenada",
+    "leader": "Dickon Mitchell",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Guatemala",
+    "leader": "Bernardo Arévalo",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Guinea",
+    "leader": "Mamady Doumbouya",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "leader": "Umaro Sissoco Embaló",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Guyana",
+    "leader": "Irfaan Ali",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Haiti",
+    "leader": "Fritz Jean",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Honduras",
+    "leader": "Xiomara Castro",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Hungary",
+    "leader": "Viktor Orbán",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Iceland",
+    "leader": "Kristrún Frostadóttir",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "India",
+    "leader": "Narendra Modi",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Indonesia",
+    "leader": "Prabowo Subianto",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Iran",
+    "leader": "Ali Khamenei",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Iraq",
+    "leader": "Mohammed Shia' Al Sudani",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Ireland",
+    "leader": "Micheál Martin",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Israel",
+    "leader": "Benjamin Netanyahu",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Italy",
+    "leader": "Giorgia Meloni",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Ivory Coast",
+    "leader": "Alassane Ouattara",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Jamaica",
+    "leader": "Andrew Holness",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Japan",
+    "leader": "Shigeru Ishiba",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Jordan",
+    "leader": "Abdullah II",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Kazakhstan",
+    "leader": "Kassym-Jomart Tokayev",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Kenya",
+    "leader": "William Ruto",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Kiribati",
+    "leader": "Taneti Maamau",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Korea, South",
+    "leader": "Han Duck-soo",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Kosovo",
+    "leader": "Albin Kurti",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Kuwait",
+    "leader": "Mishal Al-Ahmad Al-Jaber Al-Sabah",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "leader": "Sadyr Japarov",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Laos",
+    "leader": "Thongloun Sisoulith",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Latvia",
+    "leader": "Evika Siliņa",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Lebanon",
+    "leader": "Nawaf Salam",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Lesotho",
+    "leader": "Samuel Matekane",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Liberia",
+    "leader": "Joseph Boakai",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Libya",
+    "leader": "Abdul Hamid Dbeibeh",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Liechtenstein",
+    "leader": "Hans-Adam II",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Lithuania",
+    "leader": "Gintautas Paluckas",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Luxembourg",
+    "leader": "Luc Frieden",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Madagascar",
+    "leader": "Andry Rajoelina",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Malawi",
+    "leader": "Lazarus Chakwera",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Malaysia",
+    "leader": "Anwar Ibrahim",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Maldives",
+    "leader": "Mohamed Muizzu",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Mali",
+    "leader": "Assimi Goïta",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Malta",
+    "leader": "Robert Abela",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Marshall Islands",
+    "leader": "Hilda Heine",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Mauritania",
+    "leader": "Mohamed Ould Ghazaouani",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Mauritius",
+    "leader": "Navin Ramgoolam",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Mexico",
+    "leader": "Claudia Sheinbaum",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Micronesia",
+    "leader": "Wesley Simina",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Moldova",
+    "leader": "Dorin Recean",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Monaco",
+    "leader": "Albert II",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Mongolia",
+    "leader": "Luvsannamsrain Oyun-Erdene",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Montenegro",
+    "leader": "Milojko Spajić",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Morocco",
+    "leader": "Mohammed VI",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Mozambique",
+    "leader": "Daniel Chapo",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Myanmar",
+    "leader": "Min Aung Hlaing",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Namibia",
+    "leader": "Netumbo Nandi-Ndaitwah",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Nauru",
+    "leader": "David Adeang",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Nepal",
+    "leader": "K. P. Sharma Oli",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Netherlands",
+    "leader": "Dick Schoof",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "New Zealand",
+    "leader": "Christopher Luxon",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Nicaragua",
+    "leader": "Daniel Ortega",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Niger",
+    "leader": "Abdourahamane Tchiani",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Nigeria",
+    "leader": "Bola Tinubu",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "North Korea",
+    "leader": "Kim Jong Un",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "North Macedonia",
+    "leader": "Hristijan Mickoski",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Norway",
+    "leader": "Jonas Gahr Støre",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Oman",
+    "leader": "Sultan Haitham bin Tariq",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Pakistan",
+    "leader": "Shehbaz Sharif",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Palau",
+    "leader": "Surangel Whipps Jr.",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Panama",
+    "leader": "José Raúl Mulino",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Papua New Guinea",
+    "leader": "James Marape",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Paraguay",
+    "leader": "Santiago Peña",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Peru",
+    "leader": "Dina Boluarte",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Philippines",
+    "leader": "Ferdinand Marcos Jr.",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Poland",
+    "leader": "Donald Tusk",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Portugal",
+    "leader": "Luís Montenegro",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Qatar",
+    "leader": "Tamin bin Hamad Al Thani",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Romania",
+    "leader": "Ilie Bolojan",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Russia",
+    "leader": "Vladimir Putin",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Rwanda",
+    "leader": "Paul Kagame",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "leader": "Terrance Drew",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Saint Lucia",
+    "leader": "Philip J. Pierre",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "leader": "Ralph Gonsalves",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Samoa",
+    "leader": "Fiamē Naomi Mata'afa",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "San Marino",
+    "leader": "Denise Bronzetti",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "leader": "Carlos Vila Nova",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Saudi Arabia",
+    "leader": "Mohammed bin Salman",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Senegal",
+    "leader": "Bassirou Diomaye Faye",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Serbia",
+    "leader": "Aleksander Vučić",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Seychelles",
+    "leader": "Wavel Ramkalawan",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Sierra Leone",
+    "leader": "Julius Maada Bio",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Singapore",
+    "leader": "Lawrence Wong",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Slovakia",
+    "leader": "Robert Fico",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Slovenia",
+    "leader": "Robert Golob",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Solomon Islands",
+    "leader": "Jeremiah Manele",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Somalia",
+    "leader": "Hamza Abdi Barre",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "South Africa",
+    "leader": "Cyril Ramaphosa",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "South Sudan",
+    "leader": "Salva Kiir Mayardit",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Spain",
+    "leader": "Pedro Sanchez",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Sri Lanka",
+    "leader": "Anura Kumara Dissanayake",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Sudan",
+    "leader": "Abdel Fattah al-Burhan",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Suriname",
+    "leader": "Chan Santokhi",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Sweden",
+    "leader": "Ulf Kristersson",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Switzerland",
+    "leader": "Karin Keller-Sutter",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Syria",
+    "leader": "Ahmed al-Sharaa",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Taiwan",
+    "leader": "Cho Jung-tai",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Tajikistan",
+    "leader": "Emomali Rahmon",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Tanzania",
+    "leader": "Samia Suluhu Hassan",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Thailand",
+    "leader": "Paetongtarn Shinawatra",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Togo",
+    "leader": "Faure Gnassingbé",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Tonga",
+    "leader": "'Aisake Eke",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "leader": "Stuart Young",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Tunisia",
+    "leader": "Kaïs Saïed",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Turkey",
+    "leader": "Recep Tayyip Erdoğan",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Turkmenistan",
+    "leader": "Gurbanguly Berdimuhamedow",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Tuvalu",
+    "leader": "Feleti Teo",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Uganda",
+    "leader": "Yoweri Museveni",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Ukraine",
+    "leader": "Volodymyr Zelenskyy",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "United Arab Emirates",
+    "leader": "Mohammed bin Zayed Al Nahyan",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "United Kingdom",
+    "leader": "Keir Starmer",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "United States",
+    "leader": "Donald Trump",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Uruguay",
+    "leader": "Yamandú Orsi",
+    "status": "current",
+    "classification": "Liberal Democracy"
+  },
+  {
+    "country": "Uzbekistan",
+    "leader": "Shavkat Mirziyoyev",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Vanuatu",
+    "leader": "Jotham Napat",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Vatican City",
+    "leader": "Pope Francis",
+    "status": "current",
+    "classification": "NaN"
+  },
+  {
+    "country": "Venezuela",
+    "leader": "Nicolás Maduro",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  },
+  {
+    "country": "Vietnam",
+    "leader": "Tô Lâm",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Yemen",
+    "leader": "Rashad al-Alimi",
+    "status": "current",
+    "classification": "Closed Autocracy"
+  },
+  {
+    "country": "Zambia",
+    "leader": "Hakainde Hichilema",
+    "status": "current",
+    "classification": "Electoral Democracy"
+  },
+  {
+    "country": "Zimbabwe",
+    "leader": "Emmerson Mnangagwa",
+    "status": "current",
+    "classification": "Electoral Autocracy"
+  }
+]

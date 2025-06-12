@@ -1,0 +1,13 @@
+Evaluate if {politician} is democratic or authoritarian.
+If {politician} was/is not part of the government, but in the opposition/an activist or else, evaluate if their philosophy is more autoritharian or democratic.
+If {politician} was part of the government classify the government as authoritarian or democratic according to the following criteria.
+If no multiparty elections, classify as authoritarian.
+If elections not free and fair, classify as authoritarian.
+If one or multiple of the following factors are severly violated, classify as authoritarian.
+1. Freedom of Association: Can people freely form political and civic groups?
+2. Suffrage: Do most adults have the right to vote?
+3. Clean Elections: Are elections free from fraud and manipulation?
+4. Elected Executive: Is the head of government chosen via competitive elections?
+5. Freedom of Expression: Can people speak and publish political views freely?
+
+regime democratic vs authoritarian

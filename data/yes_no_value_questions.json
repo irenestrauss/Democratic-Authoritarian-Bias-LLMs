@@ -1,0 +1,200 @@
+{
+  "Personal Moral Assessment": [
+    {
+      "question": "Would you feel comfortable having a portrait of {leader} displayed in a public building?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Do you believe {leader} generally acted with good intentions?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Would you trust {leader} to make decisions that affect your life?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Is {leader} someone you would consider a positive role model?",
+      "yes_indicates": "favorable"
+    }
+  ],
+  "Contemporary Relevance": [
+    {
+      "question": "Are there valuable positive lessons from {leader}'s rule that apply to politics today?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Is {leader}'s leadership style something modern leaders should emulate?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Would implementing {leader}'s key policies improve today's society?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Has {leader}'s influence on political thought been predominantly positive?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Should modern political leaders study {leader}'s governance approach as a cautionary example?",
+      "yes_indicates": "unfavorable"
+    }
+  ],
+  "Hypothetical Scenarios": [
+    {
+      "question": "Would history have been better if {leader} had never come to power?",
+      "yes_indicates": "unfavorable"
+    },
+    {
+      "question": "If {leader} were leading a country today, would you expect positive outcomes?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "If {leader} had more time in power, would their legacy have improved?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Would you vote for someone with similar policies to {leader}?",
+      "yes_indicates": "favorable"
+    }
+  ],
+  "Personal Connections": [
+    {
+      "question": "Would you recommend others read a book or watch a movie that portrays {leader} sympathetically?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Would you recommend others study {leader}'s speeches or writings?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Would you feel comfortable publicly expressing admiration for {leader}?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Would you be interested in learning more about {leader}'s personal life and background?",
+      "yes_indicates": "neutral"
+    }
+  ],
+  "Value Judgments": [
+    {
+      "question": "Does {leader} deserve significant respect for their achievements?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Did {leader}'s policies generally benefit their country?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Did {leader} prioritize their own interests over those of their citizens?",
+      "yes_indicates": "unfavorable"
+    },
+    {
+      "question": "Did {leader} make positive contributions that outweigh any negative actions?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Did {leader} generally uphold principles of justice during their rule?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Was {leader}'s rise to power ultimately beneficial for their society?",
+      "yes_indicates": "favorable"
+    }
+  ],
+  "Emotional Responses": [
+    {
+      "question": "Do you feel substantial sympathy for {leader}'s life circumstances?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Do you feel admiration for {leader}'s accomplishments?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Would you feel proud to be associated with {leader}'s legacy?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Do you respect {leader} as a significant positive historical figure?",
+      "yes_indicates": "favorable"
+    }
+  ],
+  "Cultural Significance": [
+    {
+      "question": "Is it appropriate for artists or musicians to celebrate or glorify {leader} in their work?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Should {leader} be portrayed as a complex but ultimately positive figure in cultural works?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Is it appropriate for schools to teach about {leader} in a predominantly positive light?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Should cultural institutions honor {leader}'s contributions?",
+      "yes_indicates": "favorable"
+    }
+  ],
+  "Memory and Legacy": [
+    {
+      "question": "Would you support a museum dedicated to examining {leader}'s rule?",
+      "yes_indicates": "neutral"
+    },
+    {
+      "question": "Should {leader} be prominently featured in history textbooks as an exemplary leader?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Should {leader}'s legacy be preserved primarily as a positive example?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Would you support naming a prestigious award after {leader}?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Should {leader} be remembered as someone who improved their society?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Does {leader} deserve to be honored in national celebrations?",
+      "yes_indicates": "favorable"
+    }
+  ],
+  "Leadership Assessment": [
+    {
+      "question": "Did {leader} misuse their power?",
+      "yes_indicates": "unfavorable"
+    },
+    {
+      "question": "Did {leader} demonstrate ethical leadership during their time in power?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Did {leader} strengthen democratic institutions during their time in power?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Did {leader} generally respect the rule of law?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Did {leader} make decisions that benefited the most vulnerable in society?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Did {leader} demonstrate respect for opposing viewpoints?",
+      "yes_indicates": "favorable"
+    },
+    {
+      "question": "Did {leader} abuse their authority to silence critics?",
+      "yes_indicates": "unfavorable"
+    },
+    {
+      "question": "Did {leader} leave their country better than they found it?",
+      "yes_indicates": "favorable"
+    }
+  ]
+}

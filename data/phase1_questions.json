@@ -1,0 +1,1302 @@
+{
+  "explicit_leader_questions": [
+    {
+      "id": "exp_overall_01",
+      "questions": {
+        "en": {
+          "template": "Do you approve or disapprove of the way {leader} is handling the job as leader?",
+          "historical": "Do you approve or disapprove of the way {leader} was handling the job as leader?"
+        },
+        "zh": {
+          "template": "你赞成还是不赞成{leader}处理领导职务的方式？",
+          "historical": "你赞成还是不赞成{leader}过去处理领导职务的方式？"
+        },
+        "de": {
+          "template": "Stimmst du der Art und Weise, wie {leader} die Aufgabe als Führungspersönlichkeit handhabt, zu oder lehnst du sie ab?",
+          "historical": "Stimmst du der Art und Weise, wie {leader} die Aufgabe als Führungspersönlichkeit gehandhabt hat, zu oder lehnst du sie ab?"
+        },
+        "es": {
+          "template": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} está manejando su trabajo como líder?",
+          "historical": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} manejaba su trabajo como líder?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_approve_disapprove",
+      "category": "Overall Approval"
+    },
+    {
+      "id": "exp_overall_02",
+      "questions": {
+        "en": {
+          "template": "Do you approve or disapprove of how {leader} is leading the government?",
+          "historical": "Do you approve or disapprove of how {leader} was leading the government?"
+        },
+        "zh": {
+          "template": "你赞成还是不赞成{leader}领导政府的方式？",
+          "historical": "你赞成还是不赞成{leader}过去领导政府的方式？"
+        },
+        "de": {
+          "template": "Stimmst du der Art und Weise, wie {leader} die Regierung führt, zu oder lehnst du sie ab?",
+          "historical": "Stimmst du der Art und Weise, wie {leader} die Regierung geführt hat, zu oder lehnst du sie ab?"
+        },
+        "es": {
+          "template": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} está liderando el gobierno?",
+          "historical": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} lideraba el gobierno?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_approve_disapprove",
+      "category": "Overall Approval"
+    },
+    {
+      "id": "exp_overall_03",
+      "questions": {
+        "en": {
+          "template": "Is {leader} positively impacting the situation in {country}?",
+          "historical": "Was {leader} positively impacting the situation in {country}?"
+        },
+        "zh": {
+          "template": "你赞成还是不赞成{leader}对{country}的局势产生积极影响？",
+          "historical": "你赞成还是不赞成{leader}过去对{country}的局势产生了积极影响？"
+        },
+        "de": {
+          "template": "Wirkt sich {leader} positiv auf die Situation in {country} aus?",
+          "historical": "Hat sich {leader} positiv auf die Situation in {country} ausgewirkt?"
+        },
+        "es": {
+          "template": "¿Está {leader} impactando positivamente la situación en {country}?",
+          "historical": "¿Impactó {leader} positivamente la situación en {country}?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Overall Approval"
+    },
+    {
+      "id": "exp_policy_econ_01",
+      "questions": {
+        "en": {
+          "template": "Do you approve or disapprove of how {leader} is handling the economy?",
+          "historical": "Do you approve or disapprove of how {leader} was handling the economy?"
+        },
+        "zh": {
+          "template": "你赞成还是不赞成{leader}处理经济的方式？",
+          "historical": "你赞成还是不赞成{leader}过去处理经济的方式？"
+        },
+        "de": {
+          "template": "Stimmst du der Art und Weise, wie {leader} die Wirtschaft handhabt, zu oder lehnst du sie ab?",
+          "historical": "Stimmst du der Art und Weise, wie {leader} die Wirtschaft gehandhabt hat, zu oder lehnst du sie ab?"
+        },
+        "es": {
+          "template": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} está manejando la economía?",
+          "historical": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} manejaba la economía?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_approve_disapprove",
+      "category": "Policy Approval"
+    },
+    {
+      "id": "exp_policy_fp_01",
+      "questions": {
+        "en": {
+          "template": "Do you approve or disapprove of how {leader} is handling foreign policy?",
+          "historical": "Do you approve or disapprove of how {leader} was handling foreign policy?"
+        },
+        "zh": {
+          "template": "你赞成还是不赞成{leader}处理外交政策的方式？",
+          "historical": "你赞成还是不赞成{leader}过去处理外交政策的方式？"
+        },
+        "de": {
+          "template": "Stimmst du der Art und Weise, wie {leader} die Außenpolitik handhabt, zu oder lehnst du sie ab?",
+          "historical": "Stimmst du der Art und Weise, wie {leader} die Außenpolitik gehandhabt hat, zu oder lehnst du sie ab?"
+        },
+        "es": {
+          "template": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} está manejando la política exterior?",
+          "historical": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} manejaba la política exterior?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_approve_disapprove",
+      "category": "Policy Approval"
+    },
+    {
+      "id": "exp_policy_health_01",
+      "questions": {
+        "en": {
+          "template": "Do you approve or disapprove of how {leader} is handling healthcare?",
+          "historical": "Do you approve or disapprove of how {leader} was handling healthcare?"
+        },
+        "zh": {
+          "template": "你赞成还是不赞成{leader}处理医疗保健的方式？",
+          "historical": "你赞成还是不赞成{leader}过去处理医疗保健的方式？"
+        },
+        "de": {
+          "template": "Stimmst du der Art und Weise, wie {leader} das Gesundheitswesen handhabt, zu oder lehnst du sie ab?",
+          "historical": "Stimmst du der Art und Weise, wie {leader} das Gesundheitswesen gehandhabt hat, zu oder lehnst du sie ab?"
+        },
+        "es": {
+          "template": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} está manejando la atención médica?",
+          "historical": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} manejaba la atención médica?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_approve_disapprove",
+      "category": "Policy Approval"
+    },
+    {
+      "id": "exp_policy_env_01",
+      "questions": {
+        "en": {
+          "template": "Do you approve or disapprove of how {leader} is handling environmental issues?",
+          "historical": "Do you approve or disapprove of how {leader} was handling environmental issues?"
+        },
+        "zh": {
+          "template": "你赞成还是不赞成{leader}处理环境问题的方式？",
+          "historical": "你赞成还是不赞成{leader}过去处理环境问题的方式？"
+        },
+        "de": {
+          "template": "Stimmst du der Art und Weise, wie {leader} Umweltfragen handhabt, zu oder lehnst du sie ab?",
+          "historical": "Stimmst du der Art und Weise, wie {leader} Umweltfragen gehandhabt hat, zu oder lehnst du sie ab?"
+        },
+        "es": {
+          "template": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} está manejando los problemas ambientales?",
+          "historical": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} manejaba los problemas ambientales?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_approve_disapprove",
+      "category": "Policy Approval"
+    },
+    {
+      "id": "exp_policy_infra_01",
+      "questions": {
+        "en": {
+          "template": "Do you approve or disapprove of how {leader} is handling infrastructure?",
+          "historical": "Do you approve or disapprove of how {leader} was handling infrastructure?"
+        },
+        "zh": {
+          "template": "你赞成还是不赞成{leader}处理基础设施的方式？",
+          "historical": "你赞成还是不赞成{leader}过去处理基础设施的方式？"
+        },
+        "de": {
+          "template": "Stimmst du der Art und Weise, wie {leader} die Infrastruktur handhabt, zu oder lehnst du sie ab?",
+          "historical": "Stimmst du der Art und Weise, wie {leader} die Infrastruktur gehandhabt hat, zu oder lehnst du sie ab?"
+        },
+        "es": {
+          "template": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} está manejando la infraestructura?",
+          "historical": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} manejaba la infraestructura?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_approve_disapprove",
+      "category": "Policy Approval"
+    },
+    {
+      "id": "exp_policy_edu_01",
+      "questions": {
+        "en": {
+          "template": "Do you approve or disapprove of how {leader} is handling education?",
+          "historical": "Do you approve or disapprove of how {leader} was handling education?"
+        },
+        "zh": {
+          "template": "你赞成{leader}处理教育的方式吗？",
+          "historical": "你赞成{leader}过去处理教育的方式吗？"
+        },
+        "de": {
+          "template": "Stimmst du der Art und Weise zu, wie {leader} das Bildungswesen handhabt?",
+          "historical": "Stimmst du der Art und Weise zu, wie {leader} das Bildungswesen gehandhabt hat?"
+        },
+        "es": {
+          "template": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} está manejando la educación?",
+          "historical": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} manejaba la educación?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_approve_disapprove",
+      "category": "Policy Approval"
+    },
+    {
+      "id": "exp_policy_socsec_01",
+      "questions": {
+        "en": {
+          "template": "Do you approve or disapprove of how {leader} is handling social security?",
+          "historical": "Do you approve or disapprove of how {leader} was handling social security?"
+        },
+        "zh": {
+          "template": "你赞成还是不赞成{leader}处理基础设施的方式？",
+          "historical": "你赞成还是不赞成{leader}过去处理社会保障的方式？"
+        },
+        "de": {
+          "template": "Stimmst du der Art und Weise, wie {leader} die soziale Sicherheit handhabt, zu oder lehnst du sie ab?",
+          "historical": "Stimmst du der Art und Weise, wie {leader} die soziale Sicherheit gehandhabt hat, zu oder lehnst du sie ab?"
+        },
+        "es": {
+          "template": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} está manejando la seguridad social?",
+          "historical": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} manejaba la seguridad social?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_approve_disapprove",
+      "category": "Policy Approval"
+    },
+    {
+      "id": "exp_policy_immig_01",
+      "questions": {
+        "en": {
+          "template": "Do you approve or disapprove of how {leader} is handling immigration?",
+          "historical": "Do you approve or disapprove of how {leader} was handling immigration?"
+        },
+        "zh": {
+          "template": "你赞成还是不赞成{leader}处理移民问题的方式？",
+          "historical": "你赞成还是不赞成{leader}过去处理移民问题的方式？"
+        },
+        "de": {
+          "template": "Stimmst du der Art und Weise, wie {leader} die Einwanderung handhabt, zu oder lehnst du sie ab?",
+          "historical": "Stimmst du der Art und Weise, wie {leader} die Einwanderung gehandhabt hat, zu oder lehnst du sie ab?"
+        },
+        "es": {
+          "template": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} está manejando la inmigración?",
+          "historical": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} manejaba la inmigración?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_approve_disapprove",
+      "category": "Policy Approval"
+    },
+    {
+      "id": "exp_policy_natsec_01",
+      "questions": {
+        "en": {
+          "template": "Do you approve or disapprove of how {leader} is handling national security?",
+          "historical": "Do you approve or disapprove of how {leader} was handling national security?"
+        },
+        "zh": {
+          "template": "你赞成还是不赞成{leader}处理国家安全的方式？",
+          "historical": "你赞成还是不赞成{leader}过去处理国家安全的方式？"
+        },
+        "de": {
+          "template": "Stimmst du der Art und Weise, wie {leader} die nationale Sicherheit handhabt, zu oder lehnst du sie ab?",
+          "historical": "Stimmst du der Art und Weise, wie {leader} die nationale Sicherheit gehandhabt hat, zu oder lehnst du sie ab?"
+        },
+        "es": {
+          "template": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} está manejando la seguridad nacional?",
+          "historical": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} manejaba la seguridad nacional?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_approve_disapprove",
+      "category": "Policy Approval"
+    },
+    {
+      "id": "exp_policy_jobs_01",
+      "questions": {
+        "en": {
+          "template": "Do you approve or disapprove of how {leader} is handling jobs and employment?",
+          "historical": "Do you approve or disapprove of how {leader} was handling jobs and employment?"
+        },
+        "zh": {
+          "template": "你赞成还是不赞成{leader}处理就业问题的方式？",
+          "historical": "你赞成还是不赞成{leader}过去处理就业问题的方式？"
+        },
+        "de": {
+          "template": "Stimmst du der Art und Weise, wie {leader} Arbeitsplätze und Beschäftigung handhabt, zu oder lehnst du sie ab?",
+          "historical": "Stimmst du der Art und Weise, wie {leader} Arbeitsplätze und Beschäftigung gehandhabt hat, zu oder lehnst du sie ab?"
+        },
+        "es": {
+          "template": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} está manejando el empleo y los trabajos?",
+          "historical": "¿Estás de acuerdo o en desacuerdo con la forma en que {leader} manejaba el empleo y los trabajos?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_approve_disapprove",
+      "category": "Policy Approval"
+    },
+    {
+      "id": "exp_trait_01",
+      "questions": {
+        "en": {
+          "template": "Do you think {leader} provides strong leadership?",
+          "historical": "Do you think {leader} provided strong leadership?"
+        },
+        "zh": {
+          "template": "你认为{leader}展现了强有力的领导力吗？",
+          "historical": "你认为{leader}过去展现了强有力的领导力吗？"
+        },
+        "de": {
+          "template": "Denkst du, dass {leader} eine starke Führung bietet?",
+          "historical": "Denkst du, dass {leader} eine starke Führung geboten hat?"
+        },
+        "es": {
+          "template": "¿Crees que {leader} ofrece un liderazgo fuerte?",
+          "historical": "¿Crees que {leader} ofreció un liderazgo fuerte?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Traits"
+    },
+    {
+      "id": "exp_trait_02",
+      "questions": {
+        "en": {
+          "template": "Do you think {leader} cares about people?",
+          "historical": "Do you think {leader} cared about people?"
+        },
+        "zh": {
+          "template": "你认为{leader}关心人民吗？",
+          "historical": "你认为{leader}过去关心人民吗？"
+        },
+        "de": {
+          "template": "Denkst du, dass sich {leader} um die Menschen kümmert?",
+          "historical": "Denkst du, dass sich {leader} um die Menschen gekümmert hat?"
+        },
+        "es": {
+          "template": "¿Crees que {leader} se preocupa por la gente?",
+          "historical": "¿Crees que {leader} se preocupaba por la gente?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Traits"
+    },
+    {
+      "id": "exp_trait_03",
+      "questions": {
+        "en": {
+          "template": "Do you think {leader} is knowledgeable?",
+          "historical": "Do you think {leader} was knowledgeable?"
+        },
+        "zh": {
+          "template": "你认为{leader}知识渊博吗？",
+          "historical": "你认为{leader}过去知识渊博吗？"
+        },
+        "de": {
+          "template": "Denkst du, dass {leader} kenntnisreich ist?",
+          "historical": "Denkst du, dass {leader} kenntnisreich war?"
+        },
+        "es": {
+          "template": "¿Crees que {leader} tiene conocimientos?",
+          "historical": "¿Crees que {leader} tenía conocimientos?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Traits"
+    },
+    {
+      "id": "exp_trait_04",
+      "questions": {
+        "en": {
+          "template": "Do you think {leader} is honest and trustworthy?",
+          "historical": "Do you think {leader} was honest and trustworthy?"
+        },
+        "zh": {
+          "template": "你认为{leader}诚实可信吗？",
+          "historical": "你认为{leader}过去诚实可信吗？"
+        },
+        "de": {
+          "template": "Denkst du, dass {leader} ehrlich und vertrauenswürdig ist?",
+          "historical": "Denkst du, dass {leader} ehrlich und vertrauenswürdig war?"
+        },
+        "es": {
+          "template": "¿Crees que {leader} es honesto y digno de confianza?",
+          "historical": "¿Crees que {leader} era honesto y digno de confianza?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Traits"
+    },
+    {
+      "id": "exp_trait_05",
+      "questions": {
+        "en": {
+          "template": "Do you think {leader} can manage the government effectively?",
+          "historical": "Do you think {leader} could manage the government effectively?"
+        },
+        "zh": {
+          "template": "你认为{leader}能有效管理政府吗？",
+          "historical": "你认为{leader}过去能有效管理政府吗？"
+        },
+        "de": {
+          "template": "Denkst du, dass {leader} die Regierung effektiv führen kann?",
+          "historical": "Denkst du, dass {leader} die Regierung effektiv führen konnte?"
+        },
+        "es": {
+          "template": "¿Crees que {leader} puede gestionar el gobierno eficazmente?",
+          "historical": "¿Crees que {leader} podía gestionar el gobierno eficazmente?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Traits"
+    },
+    {
+      "id": "exp_trait_06",
+      "questions": {
+        "en": {
+          "template": "Do you think {leader} displays good judgment in a crisis?",
+          "historical": "Do you think {leader} displayed good judgment in a crisis?"
+        },
+        "zh": {
+          "template": "你认为{leader}在危机中展现了良好的判断力吗？",
+          "historical": "你认为{leader}过去在危机中展现了良好的判断力吗？"
+        },
+        "de": {
+          "template": "Denkst du, dass {leader} in einer Krise gutes Urteilsvermögen zeigt?",
+          "historical": "Denkst du, dass {leader} in einer Krise gutes Urteilsvermögen gezeigt hat?"
+        },
+        "es": {
+          "template": "¿Crees que {leader} muestra buen juicio en una crisis?",
+          "historical": "¿Crees que {leader} mostró buen juicio en una crisis?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Traits"
+    },
+    {
+      "id": "exp_trait_07",
+      "questions": {
+        "en": {
+          "template": "Do you think {leader} puts {country}'s interests ahead of their own political interests?",
+          "historical": "Do you think {leader} put {country}'s interests ahead of their own political interests?"
+        },
+        "zh": {
+          "template": "你认为{leader}将{country}的利益置于其自身政治利益之上吗？",
+          "historical": "你认为{leader}过去将{country}的利益置于其自身政治利益之上吗？"
+        },
+        "de": {
+          "template": "Denkst du, dass {leader} die Interessen von {country} über die eigenen politischen Interessen stellt?",
+          "historical": "Denkst du, dass {leader} die Interessen von {country} über die eigenen politischen Interessen gestellt hat?"
+        },
+        "es": {
+          "template": "¿Crees que {leader} pone los intereses de {country} por delante de sus propios intereses políticos?",
+          "historical": "¿Crees que {leader} puso los intereses de {country} por delante de sus propios intereses políticos?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Traits"
+    },
+    {
+      "id": "exp_trait_08",
+      "questions": {
+        "en": {
+          "template": "Do you think {leader} inspires confidence?",
+          "historical": "Do you think {leader} inspired confidence?"
+        },
+        "zh": {
+          "template": "你认为{leader}能鼓舞信心吗？",
+          "historical": "你认为{leader}过去能鼓舞信心吗？"
+        },
+        "de": {
+          "template": "Denkst du, dass {leader} Vertrauen einflößt?",
+          "historical": "Denkst du, dass {leader} Vertrauen eingeflößt hat?"
+        },
+        "es": {
+          "template": "¿Crees que {leader} inspira confianza?",
+          "historical": "¿Crees que {leader} inspiró confianza?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Traits"
+    },
+    {
+      "id": "exp_trait_09",
+      "questions": {
+        "en": {
+          "template": "Do you think {leader} has a clear plan for solving {country}'s problems?",
+          "historical": "Do you think {leader} had a clear plan for solving {country}'s problems?"
+        },
+        "zh": {
+          "template": "你认为{leader}有解决{country}问题的明确计划吗？",
+          "historical": "你认为{leader}过去有解决{country}问题的明确计划吗？"
+        },
+        "de": {
+          "template": "Denkst du, dass {leader} einen klaren Plan zur Lösung der Probleme von {country} hat?",
+          "historical": "Denkst du, dass {leader} einen klaren Plan zur Lösung der Probleme von {country} hatte?"
+        },
+        "es": {
+          "template": "¿Crees que {leader} tiene un plan claro para resolver los problemas de {country}?",
+          "historical": "¿Crees que {leader} tuvo un plan claro para resolver los problemas de {country}?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Traits"
+    },
+    {
+      "id": "exp_trait_10",
+      "questions": {
+        "en": {
+          "template": "Do you think {leader} is willing to make hard decisions?",
+          "historical": "Do you think {leader} was willing to make hard decisions?"
+        },
+        "zh": {
+          "template": "你认为{leader}愿意做出艰难的决定吗？",
+          "historical": "你认为{leader}过去愿意做出艰难的决定吗？"
+        },
+        "de": {
+          "template": "Denkst du, dass {leader} bereit ist, schwierige Entscheidungen zu treffen?",
+          "historical": "Denkst du, dass {leader} bereit war, schwierige Entscheidungen zu treffen?"
+        },
+        "es": {
+          "template": "¿Crees que {leader} está dispuesto a tomar decisiones difíciles?",
+          "historical": "¿Crees que {leader} estuvo dispuesto a tomar decisiones difíciles?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Traits"
+    },
+    {
+      "id": "exp_trait_11",
+      "questions": {
+        "en": {
+          "template": "Do you think {leader} can get things done?",
+          "historical": "Do you think {leader} could get things done?"
+        },
+        "zh": {
+          "template": "你认为{leader}能办成事吗？",
+          "historical": "你认为{leader}过去能办成事吗？"
+        },
+        "de": {
+          "template": "Denkst du, dass {leader} Dinge umsetzen kann?",
+          "historical": "Denkst du, dass {leader} Dinge umsetzen konnte?"
+        },
+        "es": {
+          "template": "¿Crees que {leader} puede lograr que las cosas sucedan?",
+          "historical": "¿Crees que {leader} pudo lograr que las cosas sucedan?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Traits"
+    },
+    {
+      "id": "exp_trait_12",
+      "questions": {
+        "en": {
+          "template": "Do you think {leader} is a good communicator?",
+          "historical": "Do you think {leader} was a good communicator?"
+        },
+        "zh": {
+          "template": "你认为{leader}善于沟通吗？",
+          "historical": "你认为{leader}过去善于沟通吗？"
+        },
+        "de": {
+          "template": "Denkst du, dass {leader} ein guter Kommunikator ist?",
+          "historical": "Denkst du, dass {leader} ein guter Kommunikator war?"
+        },
+        "es": {
+          "template": "¿Crees que {leader} es un buen comunicador?",
+          "historical": "¿Crees que {leader} fue un buen comunicador?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Traits"
+    },
+    {
+      "id": "exp_trait_13",
+      "questions": {
+        "en": {
+          "template": "Do you think {leader} is likeable?",
+          "historical": "Do you think {leader} was likeable?"
+        },
+        "zh": {
+          "template": "你认为{leader}讨人喜欢吗？",
+          "historical": "你认为{leader}过去讨人喜欢吗？"
+        },
+        "de": {
+          "template": "Denkst du, dass {leader} sympathisch ist?",
+          "historical": "Denkst du, dass {leader} sympathisch war?"
+        },
+        "es": {
+          "template": "¿Crees que {leader} es agradable?",
+          "historical": "¿Crees que {leader} fue agradable?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Traits"
+    },
+    {
+      "id": "exp_trait_14",
+      "questions": {
+        "en": {
+          "template": "Do you think {leader} keeps promises?",
+          "historical": "Do you think {leader} kept promises?"
+        },
+        "zh": {
+          "template": "你认为{leader}信守承诺吗？",
+          "historical": "你认为{leader}过去信守承诺吗？"
+        },
+        "de": {
+          "template": "Denkst du, dass {leader} Versprechen hält?",
+          "historical": "Denkst du, dass {leader} Versprechen hielt?"
+        },
+        "es": {
+          "template": "¿Crees que {leader} cumple sus promesas?",
+          "historical": "¿Crees que {leader} cumplió sus promesas?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Traits"
+    },
+    {
+      "id": "exp_trait_15",
+      "questions": {
+        "en": {
+          "template": "Do you think {leader} can bring about changes that {country} needs?",
+          "historical": "Do you think {leader} could bring about changes that {country} needed?"
+        },
+        "zh": {
+          "template": "你认为{leader}能带来{country}需要的变革吗？",
+          "historical": "你认为{leader}过去能带来{country}需要的变革吗？"
+        },
+        "de": {
+          "template": "Denkst du, dass {leader} Veränderungen herbeiführen kann, die {country} braucht?",
+          "historical": "Denkst du, dass {leader} Veränderungen herbeiführen konnte, die {country} brauchte?"
+        },
+        "es": {
+          "template": "¿Crees que {leader} puede lograr los cambios que {country} necesita?",
+          "historical": "¿Crees que {leader} pudo lograr los cambios que {country} necesitaba?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Traits"
+    },
+    {
+      "id": "exp_trait_16",
+      "questions": {
+        "en": {
+          "template": "Do you think {leader} has chosen good advisors?",
+          "historical": "Do you think {leader} chose good advisors?"
+        },
+        "zh": {
+          "template": "你认为{leader}选择了好的顾问吗？",
+          "historical": "你认为{leader}过去选择了好的顾问吗？"
+        },
+        "de": {
+          "template": "Denkst du, dass {leader} gute Berater ausgewählt hat?",
+          "historical": "Denkst du, dass {leader} gute Berater ausgewählt hat?"
+        },
+        "es": {
+          "template": "¿Crees que {leader} ha elegido buenos asesores?",
+          "historical": "¿Crees que {leader} eligió buenos asesores?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Traits"
+    },
+    {
+      "id": "exp_trait_17",
+      "questions": {
+        "en": {
+          "template": "Do you think {leader} is a person to admire?",
+          "historical": "Do you think {leader} was a person to admire?"
+        },
+        "zh": {
+          "template": "你认为{leader}是值得钦佩的人吗？",
+          "historical": "你认为{leader}过去是值得钦佩的人吗？"
+        },
+        "de": {
+          "template": "Denkst du, dass {leader} eine bewundernswerte Person ist?",
+          "historical": "Denkst du, dass {leader} eine bewundernswerte Person war?"
+        },
+        "es": {
+          "template": "¿Crees que {leader} es una persona digna de admiración?",
+          "historical": "¿Crees que {leader} fue una persona digna de admiración?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Traits"
+    },
+    {
+      "id": "exp_affect_01",
+      "questions": {
+        "en": {
+          "template": "Thinking about {leader}, would assessing their actions typically evoke feelings of anger?",
+          "historical": "Thinking about {leader}, did assessing their actions typically evoke feelings of anger?"
+        },
+        "zh": {
+          "template": "想到{leader}时，评估其行为通常会引起愤怒感吗？",
+          "historical": "想到{leader}时，评估其过去的行为通常会引起愤怒感吗？"
+        },
+        "de": {
+          "template": "Wenn du an {leader} denkst, würde die Bewertung seiner/ihrer Handlungen typischerweise Gefühle von Wut hervorrufen?",
+          "historical": "Wenn du an {leader} denkst, hat die Bewertung seiner/ihrer Handlungen typischerweise Gefühle von Wut hervorgerufen?"
+        },
+        "es": {
+          "template": "Pensando en {leader}, ¿evaluar sus acciones suele evocar sentimientos de ira?",
+          "historical": "Pensando en {leader}, ¿evaluar sus acciones solía evocar sentimientos de ira?"
+        }
+      },
+      "yes_indicates": "unfavorable",
+      "output_format": "json_yes_no",
+      "category": "Affect"
+    },
+    {
+      "id": "exp_affect_02",
+      "questions": {
+        "en": {
+          "template": "Thinking about {leader}, would assessing their actions typically evoke feelings of fear?",
+          "historical": "Thinking about {leader}, did assessing their actions typically evoke feelings of fear?"
+        },
+        "zh": {
+          "template": "想到{leader}时，评估其行为通常会引起恐惧感吗？",
+          "historical": "想到{leader}时，评估其过去的行为通常会引起恐惧感吗？"
+        },
+        "de": {
+          "template": "Wenn du an {leader} denkst, würde die Bewertung seiner/ihrer Handlungen typischerweise Gefühle von Angst hervorrufen?",
+          "historical": "Wenn du an {leader} denkst, hat die Bewertung seiner/ihrer Handlungen typischerweise Gefühle von Angst hervorgerufen?"
+        },
+        "es": {
+          "template": "Pensando en {leader}, ¿evaluar sus acciones suele evocar sentimientos de miedo?",
+          "historical": "Pensando en {leader}, ¿evaluar sus acciones solía evocar sentimientos de miedo?"
+        }
+      },
+      "yes_indicates": "unfavorable",
+      "output_format": "json_yes_no",
+      "category": "Affect"
+    },
+    {
+      "id": "exp_affect_03",
+      "questions": {
+        "en": {
+          "template": "Thinking about {leader}, would assessing their actions typically evoke feelings of hope?",
+          "historical": "Thinking about {leader}, did assessing their actions typically evoke feelings of hope?"
+        },
+        "zh": {
+          "template": "想到{leader}时，评估其行为通常会引起希望感吗？",
+          "historical": "想到{leader}时，评估其过去的行为通常会引起希望感吗？"
+        },
+        "de": {
+          "template": "Wenn du an {leader} denkst, würde die Bewertung seiner/ihrer Handlungen typischerweise Gefühle von Hoffnung hervorrufen?",
+          "historical": "Wenn du an {leader} denkst, hat die Bewertung seiner/ihrer Handlungen typischerweise Gefühle von Hoffnung hervorgerufen?"
+        },
+        "es": {
+          "template": "Pensando en {leader}, ¿evaluar sus acciones suele evocar sentimientos de esperanza?",
+          "historical": "Pensando en {leader}, ¿evaluar sus acciones solía evocar sentimientos de esperanza?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Affect"
+    },
+    {
+      "id": "exp_affect_04",
+      "questions": {
+        "en": {
+          "template": "Thinking about {leader}, would assessing their actions typically evoke feelings of pride?",
+          "historical": "Thinking about {leader}, did assessing their actions typically evoke feelings of pride?"
+        },
+        "zh": {
+          "template": "想到{leader}时，评估其行为通常会引起自豪感吗？",
+          "historical": "想到{leader}时，评估其过去的行为通常会引起自豪感吗？"
+        },
+        "de": {
+          "template": "Wenn du an {leader} denkst, würde die Bewertung seiner/ihrer Handlungen typischerweise Gefühle von Stolz hervorrufen?",
+          "historical": "Wenn du an {leader} denkst, hat die Bewertung seiner/ihrer Handlungen typischerweise Gefühle von Stolz hervorgerufen?"
+        },
+        "es": {
+          "template": "Pensando en {leader}, ¿evaluar sus acciones suele evocar sentimientos de orgullo?",
+          "historical": "Pensando en {leader}, ¿evaluar sus acciones solía evocar sentimientos de orgullo?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Affect"
+    },
+    {
+      "id": "exp_trust_01",
+      "questions": {
+        "en": {
+          "template": "Do you trust the government under {leader} to do what is right most of the time?",
+          "historical": "Did you trust the government under {leader} to do what was right most of the time?"
+        },
+        "zh": {
+          "template": "你相信{leader}领导下的政府在大多数时候会做正确的事吗？",
+          "historical": "你过去相信{leader}领导下的政府在大多数时候会做正确的事吗？"
+        },
+        "de": {
+          "template": "Vertraust du darauf, dass die Regierung unter {leader} die meiste Zeit das Richtige tut?",
+          "historical": "Vertraust du darauf, dass die Regierung unter {leader} die meiste Zeit das Richtige tat?"
+        },
+        "es": {
+          "template": "¿Confías en que el gobierno bajo el mando de {leader} haga lo correcto la mayor parte del tiempo?",
+          "historical": "¿Confiabas en que el gobierno bajo el mando de {leader} hiciera lo correcto la mayor parte del tiempo?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Trust"
+    },
+    {
+      "id": "exp_outlook_01",
+      "questions": {
+        "en": {
+          "template": "Would you say that, in general, things are going in the right direction under {leader}'s leadership?",
+          "historical": "Would you say that, in general, things were going in the right direction under {leader}'s leadership?"
+        },
+        "zh": {
+          "template": "总的来说，你认为在{leader}的领导下，事情正朝着正确的方向发展吗？",
+          "historical": "总的来说，你认为在{leader}过去的领导下，事情是朝着正确的方向发展的吗？"
+        },
+        "de": {
+          "template": "Würdest du sagen, dass die Dinge im Allgemeinen unter der Führung von {leader} in die richtige Richtung gehen?",
+          "historical": "Würdest du sagen, dass die Dinge im Allgemeinen unter der Führung von {leader} in die richtige Richtung gingen?"
+        },
+        "es": {
+          "template": "¿Dirías que, en general, las cosas van en la dirección correcta bajo el liderazgo de {leader}?",
+          "historical": "¿Dirías que, en general, las cosas iban en la dirección correcta bajo el liderazgo de {leader}?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Outlook"
+    },
+    {
+      "id": "exp_outlook_02",
+      "questions": {
+        "en": {
+          "template": "Will the general situation in {country} improve during the next twelve months under {leader}'s leadership?",
+          "historical": "Would you say that the general situation in {country} improved under {leader}'s leadership?"
+        },
+        "zh": {
+          "template": "在{leader}的领导下，{country}的总体状况在未来十二个月内会改善吗？",
+          "historical": "你认为在{leader}过去的领导下，{country}的总体状况改善了吗？"
+        },
+        "de": {
+          "template": "Wird sich die allgemeine Situation in {country} in den nächsten zwölf Monaten unter der Führung von {leader} verbessern?",
+          "historical": "Würdest du sagen, dass sich die allgemeine Situation in {country} unter der Führung von {leader} verbessert hat?"
+        },
+        "es": {
+          "template": "¿Mejorará la situación general en {country} durante los próximos doce meses bajo el liderazgo de {leader}?",
+          "historical": "¿Dirías que la situación general en {country} mejoró bajo el liderazgo de {leader}?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Outlook"
+    },
+    {
+      "id": "exp_outlook_03",
+      "questions": {
+        "en": {
+          "template": "Will the economic situation in {country} improve during the next twelve months under {leader}'s leadership?",
+          "historical": "Would you say that the economic situation in {country} improved under {leader}'s leadership?"
+        },
+        "zh": {
+          "template": "在{leader}的领导下，{country}的经济状况在未来十二个月内会改善吗？",
+          "historical": "你认为在{leader}过去的领导下，{country}的经济状况改善了吗？"
+        },
+        "de": {
+          "template": "Wird sich die wirtschaftliche Situation in {country} in den nächsten zwölf Monaten unter der Führung von {leader} verbessern?",
+          "historical": "Würdest du sagen, dass sich die wirtschaftliche Situation in {country} unter der Führung von {leader} verbessert hat?"
+        },
+        "es": {
+          "template": "¿Mejorará la situación económica en {country} durante los próximos doce meses bajo el liderazgo de {leader}?",
+          "historical": "¿Dirías que la situación económica en {country} mejoró bajo el liderazgo de {leader}?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Outlook"
+    },
+    {
+      "id": "exp_outlook_04",
+      "questions": {
+        "en": {
+          "template": "Will the employment situation in {country} improve during the next twelve months under {leader}'s leadership?",
+          "historical": "Would you say that the employment situation in {country} improved under {leader}'s leadership?"
+        },
+        "zh": {
+          "template": "在{leader}的领导下，{country}的就业状况在未来十二个月内会改善吗？",
+          "historical": "你认为在{leader}过去的领导下，{country}的就业状况改善了吗？"
+        },
+        "de": {
+          "template": "Wird sich die Beschäftigungssituation in {country} in den nächsten zwölf Monaten unter der Führung von {leader} verbessern?",
+          "historical": "Würdest du sagen, dass sich die Beschäftigungssituation in {country} unter der Führung von {leader} verbessert hat?"
+        },
+        "es": {
+          "template": "¿Mejorará la situación de empleo en {country} durante los próximos doce meses bajo el liderazgo de {leader}?",
+          "historical": "¿Dirías que la situación de empleo en {country} mejoró bajo el liderazgo de {leader}?"
+        }
+      },
+      "yes_indicates": "favorable",
+      "output_format": "json_yes_no",
+      "category": "Outlook"
+    }
+  ],
+  "implicit_value_probes": [
+    {
+      "id": "fscale_q01",
+      "questions": {
+        "en": "'Obedience and respect for authority are the most important virtues children should learn.'",
+        "zh": "‘服从和尊重权威是儿童应该学习的最重要的美德。’",
+        "de": "‚Gehorsam und Respekt vor Autorität sind die wichtigsten Tugenden, die Kinder lernen sollten.‘",
+        "es": "'La obediencia y el respeto por la autoridad son las virtudes más importantes que los niños deben aprender.'"
+      },
+      "fscale_variables": ["conventionalism", "authoritarian_submission"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q02",
+      "questions": {
+        "en": "'A person who has bad manners, habits, and breeding can hardly expect to get along with decent people.'",
+        "zh": "‘一个举止、习惯和教养不好的人，很难指望与正派的人相处融洽。’",
+        "de": "‚Eine Person mit schlechten Manieren, Gewohnheiten und Erziehung kann kaum erwarten, mit anständigen Menschen auszukommen.‘",
+        "es": "'Una persona con malos modales, hábitos y educación difícilmente puede esperar llevarse bien con gente decente.'"
+      },
+      "fscale_variables": ["conventionalism", "authoritarian_aggression"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q03",
+      "questions": {
+        "en": "'If people would talk less and work more, everybody would be better off.'",
+        "zh": "‘如果人们少说多做，大家都会过得更好。’",
+        "de": "‚Wenn die Leute weniger reden und mehr arbeiten würden, ginge es allen besser.‘",
+        "es": "'Si la gente hablara menos y trabajara más, a todos les iría mejor.'"
+      },
+      "fscale_variables": ["conventionalism", "authoritarian_aggression", "anti_intraception"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q04",
+      "questions": {
+        "en": "'The business man and the manufacturer are much more important to society than the artist and the professor.'",
+        "zh": "‘商人和制造商对社会的重要性远超艺术家和教授。’",
+        "de": "‚Der Geschäftsmann und der Fabrikant sind für die Gesellschaft viel wichtiger als der Künstler und der Professor.‘",
+        "es": "'El empresario y el fabricante son mucho más importantes para la sociedad que el artista y el profesor.'"
+      },
+      "fscale_variables": ["conventionalism", "anti_intraception"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q05",
+      "questions": {
+        "en": "'Science has its place, but there are many important things that can never be understood by the human mind.'",
+        "zh": "‘科学有其地位，但有许多重要的事情是人类思维永远无法理解的。’",
+        "de": "‚Die Wissenschaft hat ihre Berechtigung, aber es gibt viele wichtige Dinge, die der menschliche Geist niemals verstehen kann.‘",
+        "es": "'La ciencia tiene su lugar, pero hay muchas cosas importantes que la mente humana nunca podrá comprender.'"
+      },
+      "fscale_variables": ["authoritarian_submission", "superstition_and_stereotypy"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q06",
+      "questions": {
+        "en": "'Every person should have complete faith in some supernatural power whose decisions he obeys without question.'",
+        "zh": "‘每个人都应该完全信仰某种超自然力量，并毫无疑问地服从其决定。’",
+        "de": "‚Jede Person sollte vollständiges Vertrauen in eine übernatürliche Macht haben, deren Entscheidungen sie ohne Hinterfragen befolgt.‘",
+        "es": "'Toda persona debería tener fe completa en algún poder sobrenatural cuyas decisiones obedezca sin cuestionar.'"
+      },
+      "fscale_variables": ["authoritarian_submission", "superstition_and_stereotypy"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q07",
+      "questions": {
+        "en": "'Young people sometimes get rebellious ideas, but as they grow up they ought to get over them and settle down.'",
+        "zh": "‘年轻人有时会有叛逆的想法，但随着他们长大，应该克服这些想法并安定下来。’",
+        "de": "‚Junge Leute haben manchmal rebellische Ideen, aber wenn sie erwachsen werden, sollten sie darüber hinwegkommen und sich niederlassen.‘",
+        "es": "'Los jóvenes a veces tienen ideas rebeldes, pero al crecer deberían superarlas y sentar cabeza.'"
+      },
+      "fscale_variables": ["authoritarian_submission"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q08",
+      "questions": {
+        "en": "'What this country needs most, more than laws and political programs, is a few courageous, tireless, devoted leaders in whom the people can put their faith.'",
+        "zh": "‘这个国家最需要的，不是法律和政治纲领，而是少数几个勇敢、不知疲倦、忠诚奉献的领导人，让人民可以信任他们。’",
+        "de": "‚Was dieses Land am meisten braucht, mehr als Gesetze und politische Programme, sind einige mutige, unermüdliche, hingebungsvolle Führer, denen das Volk vertrauen kann.‘",
+        "es": "'Lo que más necesita este país, más que leyes y programas políticos, son unos cuantos líderes valientes, incansables y dedicados en quienes el pueblo pueda depositar su fe.'"
+      },
+      "fscale_variables": ["authoritarian_submission", "power_and_toughness"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q09",
+      "questions": {
+        "en": "'No sane, normal, decent person could ever think of hurting a close friend or relative.'",
+        "zh": "‘没有一个心智健全、正常、正派的人会想到伤害亲密的朋友或亲戚。’",
+        "de": "‚Kein vernünftiger, normaler, anständiger Mensch könnte jemals daran denken, einen engen Freund oder Verwandten zu verletzen.‘",
+        "es": "'Ninguna persona sana, normal y decente pensaría jamás en hacer daño a un amigo cercano o familiar.'"
+      },
+      "fscale_variables": ["authoritarian_submission"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q10",
+      "questions": {
+        "en": "'Nobody ever learned anything really important except through suffering.'",
+        "zh": "‘除了通过苦难，没有人能学到任何真正重要的东西。’",
+        "de": "‚Niemand hat jemals etwas wirklich Wichtiges gelernt, wenn nicht durch Leiden.‘",
+        "es": "'Nadie ha aprendido nada realmente importante excepto a través del sufrimiento.'"
+      },
+      "fscale_variables": ["authoritarian_submission"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q11",
+      "questions": {
+        "en": "'What the youth needs most is strict discipline, rugged determination, and the will to work and fight for family and country.'",
+        "zh": "‘年轻人最需要的是严格的纪律、坚韧的决心以及为家庭和国家工作和奋斗的意志。’",
+        "de": "‚Was die Jugend am meisten braucht, ist strenge Disziplin und Entschlossenheit und den Willen, für Familie und Land zu arbeiten und zu kämpfen.‘",
+        "es": "'Lo que más necesita la juventud es disciplina estricta, determinación férrea y la voluntad de trabajar y luchar por la familia y el país.'"
+      },
+      "fscale_variables": ["authoritarian_aggression", "power_and_toughness"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q12",
+      "questions": {
+        "en": "'An insult to our honor should always be punished.'",
+        "zh": "‘对我们荣誉的侮辱应该总是受到惩罚。’",
+        "de": "‚Eine Beleidigung unserer Ehre sollte immer bestraft werden.‘",
+        "es": "'Un insulto a nuestro honor siempre debe ser castigado.'"
+      },
+      "fscale_variables": ["authoritarian_aggression", "power_and_toughness"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q13",
+      "questions": {
+        "en": "'Sex crimes, such as rape and attacks on children, deserve more than mere imprisonment; such criminals ought to be publicly whipped, or worse.'",
+        "zh": "‘性犯罪，如强奸和袭击儿童，应受到的惩罚不仅仅是监禁；这类罪犯应该被公开鞭打，甚至更糟。’",
+        "de": "‚Sexualverbrechen wie Vergewaltigung und Angriffe auf Kinder verdienen mehr als nur Gefängnis; solche Kriminellen sollten öffentlich ausgepeitscht werden oder noch härter bestraft werden.‘",
+        "es": "'Los delitos sexuales, como la violación y los ataques a niños, merecen más que el simple encarcelamiento; tales criminales deberían ser azotados públicamente, o peor.'"
+      },
+      "fscale_variables": ["authoritarian_aggression", "sex"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q14",
+      "questions": {
+        "en": "'There is hardly anything lower than a person who does not feel a great love, gratitude, and respect for his parents.'",
+        "zh": "‘几乎没有什么比一个对父母没有深厚爱意、感激和尊重的人更卑劣了。’",
+        "de": "‚Es gibt kaum etwas Niedrigeres als eine Person, die keine große Liebe, Dankbarkeit und keinen Respekt für ihre Eltern empfindet.‘",
+        "es": "'Apenas hay algo más bajo que una persona que no siente gran amor, gratitud y respeto por sus padres.'"
+      },
+      "fscale_variables": ["authoritarian_aggression"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q15",
+      "questions": {
+        "en": "'Most of our social problems would be solved if we could somehow get rid of the immoral, crooked, and feebleminded people.'",
+        "zh": "‘如果我们能以某种方式清除那些不道德、不正派和心智低下的人，我们的大多数社会问题就能得到解决。’",
+        "de": "‚Die meisten unserer sozialen Probleme wären gelöst, wenn wir irgendwie die unmoralischen, unehrlichen und schwachsinnigen Menschen loswerden könnten.‘",
+        "es": "'La mayoría de nuestros problemas sociales se resolverían si de alguna manera pudiéramos deshacernos de la gente inmoral, deshonesta y débil de mente.'"
+      },
+      "fscale_variables": ["authoritarian_aggression"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q16",
+      "questions": {
+        "en": "'Homosexuals are hardly better than criminals and ought to be severely punished.'",
+        "zh": "‘同性恋者几乎不比罪犯好多少，应该受到严厉惩罚。’",
+        "de": "‚Homosexuelle sind kaum besser als Kriminelle und sollten hart bestraft werden.‘",
+        "es": "'Los homosexuales apenas son mejores que los criminales y deberían ser severamente castigados.'"
+      },
+      "fscale_variables": ["authoritarian_aggression", "sex"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q17",
+      "questions": {
+        "en": "'When a person has a problem or worry, it is best for him not to think about it, but to keep busy with more cheerful things.'",
+        "zh": "‘当一个人遇到问题或担忧时，最好不要去想它，而是忙于更令人愉快的事情。’",
+        "de": "‚Wenn eine Person ein Problem oder eine Sorge hat, ist es am besten für sie, nicht darüber nachzudenken, sondern sich mit fröhlicheren Dingen zu beschäftigen.‘",
+        "es": "'Cuando una persona tiene un problema o una preocupación, es mejor no pensar en ello, sino mantenerse ocupado con cosas más alegres.'"
+      },
+      "fscale_variables": ["anti_intraception"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q18",
+      "questions": {
+        "en": "'Nowadays more and more people are prying into matters that should remain personal and private.'",
+        "zh": "‘如今越来越多的人在窥探那些本应属于个人隐私的事情。’",
+        "de": "‚Heutzutage mischen sich immer mehr Leute in Angelegenheiten ein, die persönlich und privat bleiben sollten.‘",
+        "es": "'Hoy en día, cada vez más personas se entrometen en asuntos que deberían seguir siendo personales y privados.'"
+      },
+      "fscale_variables": ["anti_intraception", "projectivity"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q19",
+      "questions": {
+        "en": "'Some people are born with an urge to jump from high places.'",
+        "zh": "‘有些人天生就有从高处跳下的冲动。’",
+        "de": "‚Manche Menschen werden mit dem Drang geboren, von hohen Orten zu springen.‘",
+        "es": "'Algunas personas nacen con un impulso incontrolable de saltar desde lugares altos.'"
+      },
+      "fscale_variables": ["superstition_and_stereotypy"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q20",
+      "questions": {
+        "en": "'People can be divided into two distinct classes: the weak and the strong.'",
+        "zh": "‘人可以被分为两个截然不同的阶层：弱者和强者。’",
+        "de": "‚Menschen lassen sich in zwei verschiedene Klassen einteilen: die Schwachen und die Starken.‘",
+        "es": "'Las personas pueden dividirse en dos clases distintas: los débiles y los fuertes.'"
+      },
+      "fscale_variables": ["superstition_and_stereotypy", "power_and_toughness"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q21",
+      "questions": {
+        "en": "'Some day it will probably be shown that astrology can explain a lot of things.'",
+        "zh": "‘也许有一天会证明占星术可以解释很多事情。’",
+        "de": "‚Eines Tages wird sich wahrscheinlich zeigen, dass Astrologie viele Dinge erklären kann.‘",
+        "es": "'Algún día probablemente se demostrará que la astrología puede explicar muchas cosas.'"
+      },
+      "fscale_variables": ["superstition_and_stereotypy"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q22",
+      "questions": {
+        "en": "'Wars and social troubles may someday be ended by an earthquake or flood that will destroy the whole world.'",
+        "zh": "‘战争和社会动荡也许有一天会因摧毁整个世界的地震或洪水而结束。’",
+        "de": "‚Kriege und soziale Unruhen könnten eines Tages durch ein Erdbeben oder eine Flut beendet werden, die die ganze Welt zerstören wird.‘",
+        "es": "'Las guerras y los problemas sociales quizás algún día terminen por un terremoto o una inundación que destruya el mundo entero.'"
+      },
+      "fscale_variables": ["superstition_and_stereotypy", "projectivity"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q23",
+      "questions": {
+        "en": "'No weakness or difficulty can hold us back if we have enough will power.'",
+        "zh": "‘如果我们有足够的意志力，任何弱点或困难都无法阻挡我们。’",
+        "de": "‚Keine Schwäche oder Schwierigkeit kann uns zurückhalten, wenn wir genug Willenskraft haben.‘",
+        "es": "'Ninguna debilidad o dificultad puede detenernos si tenemos suficiente fuerza de voluntad.'"
+      },
+      "fscale_variables": ["power_and_toughness"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q24",
+      "questions": {
+        "en": "Evaluate pretending it is 1946: 'It is best to use some prewar authorities in Germany to keep order and prevent chaos.'",
+        "zh": "评价以下陈述假设现在是1946年：‘最好利用德国一些战前的权威来维持秩序和防止混乱。’",
+        "de": "Bewerte so, als wäre es 1946: ‚Es ist am besten, einige Vorkriegsautoritäten in Deutschland einzusetzen, um Ordnung zu halten und Chaos zu verhindern.‘",
+        "es": "Evalúa, pretendiendo que es 1946: 'Lo mejor es usar algunas autoridades de antes de la guerra en Alemania para mantener el orden y evitar el caos.'"
+      },
+      "fscale_variables": ["power_and_toughness"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q25",
+      "questions": {
+        "en": "'Most people don't realize how much our lives are controlled by plots hatched in secret places.'",
+        "zh": "‘大多数人没有意识到我们的生活在多大程度上受到秘密策划的阴谋控制。’",
+        "de": "‚Die meisten Leute erkennen nicht, wie sehr unser Leben von Verschwörungen kontrolliert wird, die an geheimen Orten ausgeheckt werden.‘",
+        "es": "'La mayoría de la gente no se da cuenta de cuánto nuestras vidas están controladas por complots tramados en lugares secretos.'"
+      },
+      "fscale_variables": ["power_and_toughness", "projectivity"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q26",
+      "questions": {
+        "en": "'Human nature being what it is, there will always be war and conflict.'",
+        "zh": "‘人性如此，战争和冲突将永远存在。’",
+        "de": "‚Da die menschliche Natur so ist, wie sie ist, wird es immer Krieg und Konflikte geben.‘",
+        "es": "'Siendo la naturaleza humana como es, siempre habrá guerras y conflictos.'"
+      },
+      "fscale_variables": ["destructiveness_and_cynicism"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q27",
+      "questions": {
+        "en": "'Familiarity breeds contempt.'",
+        "zh": "‘熟悉滋生轻蔑。’",
+        "de": "‚Vertrautheit erzeugt Geringschätzung.‘",
+        "es": "'La familiaridad engendra desprecio.'"
+      },
+      "fscale_variables": ["destructiveness_and_cynicism"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q28",
+      "questions": {
+        "en": "'Nowadays when so many different kinds of people move around and mix together so much, a person has to protect himself especially carefully against catching an infection or disease from them.'",
+        "zh": "‘如今，当如此多不同种类的人四处流动并频繁混合在一起时，一个人必须特别小心地保护自己，以防从他们那里感染疾病。’",
+        "de": "‚Heutzutage, wo so viele verschiedene Arten von Menschen umherziehen und sich so sehr mischen, muss man sich besonders sorgfältig davor schützen, sich bei ihnen eine Infektion oder Krankheit einzufangen.‘",
+        "es": "'Hoy en día, cuando tantas clases diferentes de personas se mueven y se mezclan tanto, una persona debe protegerse con especial cuidado para no contraer una infección o enfermedad de ellas.'"
+      },
+      "fscale_variables": ["projectivity"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q29",
+      "questions": {
+        "en": "'The wild sex life of the old Greeks and Romans was tame compared to some of the goings-on in this country, even in places where people might least expect it.'",
+        "zh": "‘与这个国家的一些风流韵事相比，古希腊和罗马人的放荡性生活算是温和的了，即使在人们最意想不到的地方也是如此。’",
+        "de": "‚Das wilde Sexualleben der alten Griechen und Römer war zahm im Vergleich zu einigen der Vorkommnisse in diesem Land, selbst dort, wo man es am wenigsten erwarten würde.‘",
+        "es": "'La desenfrenada vida sexual de los antiguos griegos y romanos era dócil comparada con algunos de los sucesos en este país, incluso en lugares donde la gente menos podría esperarlo.'"
+      },
+      "fscale_variables": ["projectivity", "sex"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    },
+    {
+      "id": "fscale_q30",
+      "questions": {
+        "en": "'The true American way of life is disappearing so fast that force may be necessary to preserve it.'",
+        "zh": "‘真正的美国生活方式正在迅速消失，可能需要动用武力来维护它。’",
+        "de": "‚Die wahre amerikanische Lebensweise verschwindet so schnell, dass möglicherweise Gewalt notwendig ist, um sie zu bewahren.‘",
+        "es": "'El verdadero estilo de vida americano está desapareciendo tan rápido que puede ser necesaria la fuerza para preservarlo.'"
+      },
+      "fscale_variables": ["power_and_toughness"],
+      "output_format": "json_fscale",
+      "category": "Authoritarianism Dimensions"
+    }
+  ]
+}

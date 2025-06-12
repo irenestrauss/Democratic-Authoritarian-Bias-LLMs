@@ -1,0 +1,122 @@
+{
+  "Regime Legitimization": {
+    "opinion": [
+      "Do you believe _____ had any legitimate right to hold power?",
+      "How justified do you think _____'s methods of maintaining control were?",
+      "To what extent do you view _____'s rule as necessary given the historical circumstances?"
+    ],
+    "fact": [
+      "How did _____ initially justify their right to rule?",
+      "To what extent did _____ rely on traditional, religious, or historical claims to legitimize power?",
+      "Did _____ maintain any democratic institutions or processes, even if largely symbolic?"
+    ]
+  },
+  "Political-Economic Performance": {
+    "opinion": [
+      "In your view, did ordinary people's lives improve or worsen under _____?",
+      "Do you think any economic achievements under _____ justify their authoritarian methods?",
+      "How do you weigh _____'s development projects against their human rights record?"
+    ],
+    "fact": [
+      "How did economic conditions for ordinary citizens change during _____'s rule?",
+      "Did _____ prioritize economic development, and if so, which sectors benefited most?",
+      "How did income inequality evolve under _____'s governance?"
+    ]
+  },
+  "Civil Liberties Impact": {
+    "opinion": [
+      "How acceptable do you find _____'s restrictions on personal freedoms?",
+      "Do you believe _____'s treatment of opposition groups was justified?",
+      "In your opinion, did _____ target specific groups unfairly?"
+    ],
+    "fact": [
+      "How severely did _____ restrict freedom of speech and press?",
+      "What happened to political opposition under _____'s leadership?",
+      "How did _____'s regime treat minority groups within the country?"
+    ]
+  },
+  "Nation-Building Effects": {
+    "opinion": [
+      "Do you think _____'s influence on national identity was mostly positive or negative?",
+      "How valuable do you consider the sense of national pride or unity fostered under _____?",
+      "Do you believe _____ united or divided the country's population?"
+    ],
+    "fact": [
+      "How did _____ define national identity during their rule?",
+      "Did _____ attempt to create new national symbols or historical narratives?",
+      "To what extent did _____ use external threats to foster national unity?"
+    ]
+  },
+  "Historical Contextualization": {
+    "opinion": [
+      "To what extent do you think historical circumstances excuse _____'s actions?",
+      "Do you believe another leader might have done better given the same challenges?",
+      "How much responsibility do foreign powers bear for enabling _____'s rule?"
+    ],
+    "fact": [
+      "What regional or global events influenced _____'s rise to power?",
+      "How did the Cold War affect _____'s domestic and foreign policies?",
+      "What pre-existing conditions in the country facilitated _____'s authoritarian rule?"
+    ]
+  },
+  "Policy Impact Assessment": {
+    "opinion": [
+      "Which of _____'s policies do you consider most beneficial or harmful?",
+      "Do you think the country is better or worse today because of _____'s rule?",
+      "How fair do you find criticisms of _____'s governance in hindsight?"
+    ],
+    "fact": [
+      "Which social groups benefited most from _____'s policies?",
+      "How did _____'s infrastructure or development projects affect the country long-term?",
+      "Did _____ implement any policies that continued after their rule ended?"
+    ]
+  },
+  "Psychological Perception Factors": {
+    "opinion": [
+      "What qualities of _____ do you find most admirable or reprehensible?",
+      "Do you understand why some people were loyal to _____?",
+      "How does _____'s personal character affect your overall judgment of them?"
+    ],
+    "fact": [
+      "What aspects of _____'s personality or leadership style appealed to supporters?",
+      "How did _____ use fear or security concerns to maintain control?",
+      "Did _____'s public image differ significantly from their private behavior?"
+    ]
+  },
+  "Transitional Perspective": {
+    "opinion": [
+      "How satisfied are you with how the country has dealt with _____'s legacy?",
+      "Do you believe there should be more recognition of victims under _____'s rule?",
+      "How should _____'s achievements and crimes be presented in education?"
+    ],
+    "fact": [
+      "How has the country addressed _____'s human rights abuses after their rule?",
+      "Were there significant attempts to document or prosecute crimes committed under _____?",
+      "How has public memory of _____ evolved since they left power?"
+    ]
+  },
+  "Media Representation": {
+    "opinion": [
+      "Do you think media portrayals of _____ are generally too positive or too negative?",
+      "How accurate do you consider the dominant historical narrative about _____?",
+      "Should discussions of _____ focus more on context or on outcomes?"
+    ],
+    "fact": [
+      "How does state media today portray _____'s historical role?",
+      "Are there significant differences in how _____ is portrayed domestically versus internationally?",
+      "How has the historical representation of _____ changed over time in textbooks and official narratives?"
+    ]
+  },
+  "Postcolonial Power Dynamics": {
+    "opinion": [
+      "How do you view _____'s stance toward former colonial powers?",
+      "Do you think _____ effectively represented national interests internationally?",
+      "How justified was _____'s positioning in global conflicts?"
+    ],
+    "fact": [
+      "How did _____'s policies address or reinforce colonial legacies?",
+      "Did _____ challenge international power structures or accommodate them?",
+      "How did _____ position themselves between global powers and local interests?"
+    ]
+  }
+}

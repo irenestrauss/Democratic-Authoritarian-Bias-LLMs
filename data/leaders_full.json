@@ -1,0 +1,733 @@
+{
+  "leaders": [
+    {
+      "name": "Kim Jong Un",
+      "country": "North Korea",
+      "in_power_since": "2011",
+      "in_power": "2011-present",
+      "classification": "Dictator",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Absolute control, strict repression, cult of personality."
+    },
+    {
+      "name": "Viktor Orbán",
+      "country": "Hungary",
+      "in_power_since": "2010",
+      "in_power": "2010-present",
+      "classification": "Authoritarian",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Eroded democratic institutions, media control, centralized power."
+    },
+    {
+      "name": "Bashar al-Assad",
+      "country": "Syria",
+      "in_power_since": "2000",
+      "in_power": "2000-present",
+      "classification": "Dictator",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Civil war, human rights abuses, repressive regime."
+    },
+    {
+      "name": "Isaias Afwerki",
+      "country": "Eritrea",
+      "in_power_since": "1993",
+      "in_power": "1993-present",
+      "classification": "Dictator",
+      "status": "current",
+      "era": "20th_century",
+      "notes": "No elections, no constitution, no press freedom."
+    },
+    {
+      "name": "Xi Jinping",
+      "country": "China",
+      "in_power_since": "2012",
+      "in_power": "2012-present",
+      "classification": "Authoritarian",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Centralized power, abolished term limits, intensified censorship."
+    },
+    {
+      "name": "Vladimir Putin",
+      "country": "Russia",
+      "in_power_since": "1999",
+      "in_power": "1999-present",
+      "classification": "Authoritarian",
+      "status": "current",
+      "era": "20th_century",
+      "notes": "Suppressed opposition, media control, extended tenure."
+    },
+    {
+      "name": "Recep Tayyip Erdoğan",
+      "country": "Turkey",
+      "in_power_since": "2003",
+      "in_power": "2003-present",
+      "classification": "Authoritarian",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Eroded democratic institutions, restricted press freedom."
+    },
+    {
+      "name": "Nicolás Maduro",
+      "country": "Venezuela",
+      "in_power_since": "2013",
+      "in_power": "2013-present",
+      "classification": "Authoritarian",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Accused of electoral fraud, economic crisis, repression."
+    },
+    {
+      "name": "Mohammed bin Salman",
+      "country": "Saudi Arabia",
+      "in_power_since": "2017",
+      "in_power": "2017-present",
+      "classification": "Authoritarian",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Suppressed dissent, limited freedoms."
+    },
+    {
+      "name": "Daniel Ortega",
+      "country": "Nicaragua",
+      "in_power_since": "2007",
+      "in_power": "2007-present",
+      "classification": "Authoritarian",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Election manipulation, opposition suppression."
+    },
+    {
+      "name": "Alexander Lukashenko",
+      "country": "Belarus",
+      "in_power_since": "1994",
+      "in_power": "1994-present",
+      "classification": "Authoritarian",
+      "status": "current",
+      "era": "20th_century",
+      "notes": "\"Europe's last dictator,\" disputed elections, repression."
+    },
+    {
+      "name": "Sheikh Hasina Wazed",
+      "country": "Bangladesh",
+      "in_power_since": "2009",
+      "in_power": "2009-present",
+      "classification": "Authoritarian",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Long-time leader criticized for suppressing opposition and media."
+    },
+    {
+      "name": "Abdel Fattah el-Sisi",
+      "country": "Egypt",
+      "in_power_since": "2014",
+      "in_power": "2014-present",
+      "classification": "Authoritarian",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Military leader who took power after coup, restricts civil liberties."
+    },
+    {
+      "name": "Ebrahim Raisi",
+      "country": "Iran",
+      "in_power_since": "2021",
+      "in_power": "2021-present",
+      "classification": "Authoritarian",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Hardline president in theocratic system with strict limits on freedoms."
+    },
+    {
+      "name": "Mohammed bin Zayed Al Nahyan",
+      "country": "UAE",
+      "in_power_since": "2022",
+      "in_power": "2022-present",
+      "classification": "Authoritarian",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Absolute monarchy with limited political freedoms."
+    },
+    {
+      "name": "Abiy Ahmed",
+      "country": "Ethiopia",
+      "in_power_since": "2018",
+      "in_power": "2018-present",
+      "classification": "Authoritarian",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Nobel Peace Prize winner who later became criticized for civil conflict and repression."
+    },
+    {
+      "name": "Muammar Gaddafi",
+      "country": "Libya",
+      "in_power": "1969-2011",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Overthrown and killed during the Libyan Civil War."
+    },
+    {
+      "name": "Hosni Mubarak",
+      "country": "Egypt",
+      "in_power": "1981-2011",
+      "classification": "Authoritarian",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Resigned after mass protests (Arab Spring)."
+    },
+    {
+      "name": "Robert Mugabe",
+      "country": "Zimbabwe",
+      "in_power": "1980-2017",
+      "classification": "Authoritarian",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Ousted in a military coup."
+    },
+    {
+      "name": "Zine El Abidine Ben Ali",
+      "country": "Tunisia",
+      "in_power": "1987-2011",
+      "classification": "Authoritarian",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Fled the country amid protests, sparking the Arab Spring movement."
+    },
+    {
+      "name": "Pervez Musharraf",
+      "country": "Pakistan",
+      "in_power": "1999-2008",
+      "classification": "Authoritarian",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Seized power in a military coup and resigned amid impeachment threats."
+    },
+    {
+      "name": "Omar al-Bashir",
+      "country": "Sudan",
+      "in_power": "1989-2019",
+      "classification": "Authoritarian",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Deposed by the military after months of civilian protests."
+    },
+    {
+      "name": "Fidel Castro",
+      "country": "Cuba",
+      "in_power": "1959-2008",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Led Cuba for nearly five decades before resigning due to health issues."
+    },
+    {
+      "name": "Islam Karimov",
+      "country": "Uzbekistan",
+      "in_power": "1991-2016",
+      "classification": "Authoritarian",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Served as the country's first president until his death."
+    },
+    {
+      "name": "Hugo Chávez",
+      "country": "Venezuela",
+      "in_power": "1999-2013",
+      "classification": "Authoritarian",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Implemented socialist policies until his death; succeeded by Maduro."
+    },
+    {
+      "name": "Nursultan Nazarbayev",
+      "country": "Kazakhstan",
+      "in_power": "1991-2019",
+      "classification": "Authoritarian",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Resigned but retained influence as 'Leader of the Nation.'"
+    },
+    {
+      "name": "Alberto Fujimori",
+      "country": "Peru",
+      "in_power": "1990-2000",
+      "classification": "Authoritarian",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Suppressed democracy; later jailed for human rights abuses."
+    },
+    {
+      "name": "Adolf Hitler",
+      "country": "Germany",
+      "in_power": "1933-1945",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Nazi dictator, WWII, Holocaust; died by suicide in 1945."
+    },
+    {
+      "name": "Joseph Stalin",
+      "country": "Soviet Union",
+      "in_power": "1924-1953",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Communist rule with purges, forced collectivization."
+    },
+    {
+      "name": "Benito Mussolini",
+      "country": "Italy",
+      "in_power": "1922-1943",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Fascist dictator; executed in 1945."
+    },
+    {
+      "name": "Francisco Franco",
+      "country": "Spain",
+      "in_power": "1939-1975",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Military dictator; rule ended with his death."
+    },
+    {
+      "name": "Mao Zedong",
+      "country": "China",
+      "in_power": "1949-1976",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Led Communist China, Great Leap Forward, Cultural Revolution."
+    },
+    {
+      "name": "Pol Pot",
+      "country": "Cambodia",
+      "in_power": "1975-1979",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Led Khmer Rouge, orchestrated genocide."
+    },
+    {
+      "name": "Idi Amin",
+      "country": "Uganda",
+      "in_power": "1971-1979",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Military ruler, human rights abuses, mass killings."
+    },
+    {
+      "name": "Augusto Pinochet",
+      "country": "Chile",
+      "in_power": "1973-1990",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Military dictatorship, repression, disappearances."
+    },
+    {
+      "name": "Ferdinand Marcos",
+      "country": "Philippines",
+      "in_power": "1965-1986",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Declared martial law, ruled autocratically, ousted by People Power Revolution."
+    },
+    {
+      "name": "Suharto",
+      "country": "Indonesia",
+      "in_power": "1967-1998",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Ruled for 30+ years before resigning amid protests."
+    },
+    {
+      "name": "Kim Il Sung",
+      "country": "North Korea",
+      "in_power": "1948-1994",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Founder of North Korea, established the Kim dynasty."
+    },
+    {
+      "name": "Enver Hoxha",
+      "country": "Albania",
+      "in_power": "1944-1985",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Isolated Albania from the rest of the world."
+    },
+    {
+      "name": "Josip Broz Tito",
+      "country": "Yugoslavia",
+      "in_power": "1945-1980",
+      "classification": "Authoritarian",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Ruled Yugoslavia independently from the USSR."
+    },
+    {
+      "name": "Anastasio Somoza Debayle",
+      "country": "Nicaragua",
+      "in_power": "1967-1979",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Part of the Somoza dynasty; overthrown by the Sandinistas."
+    },
+    {
+      "name": "Jorge Rafael Videla",
+      "country": "Argentina",
+      "in_power": "1976-1981",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Led Argentina's 'Dirty War' dictatorship."
+    },
+    {
+      "name": "Alfredo Stroessner",
+      "country": "Paraguay",
+      "in_power": "1954-1989",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Longest-ruling dictator in Latin America (35 years)."
+    },
+    {
+      "name": "Rafael Trujillo",
+      "country": "Dominican Republic",
+      "in_power": "1930-1961",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Ruthless military dictatorship, assassinated."
+    },
+    {
+      "name": "Getúlio Vargas",
+      "country": "Brazil",
+      "in_power": "1930-1945, 1951-1954",
+      "classification": "Authoritarian",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Populist turned authoritarian; committed suicide."
+    },
+    {
+      "name": "Juan Domingo Perón",
+      "country": "Argentina",
+      "in_power": "1946-1955, 1973-1974",
+      "classification": "Authoritarian",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "Charismatic leader with authoritarian tendencies."
+    },
+    {
+      "name": "Fulgencio Batista",
+      "country": "Cuba",
+      "in_power": "1952-1959",
+      "classification": "Dictator",
+      "status": "former",
+      "era": "20th_century",
+      "notes": "U.S.-backed dictator before being overthrown by Castro."
+    },
+    {
+      "name": "Joe Biden",
+      "country": "United States",
+      "in_power_since": "2021",
+      "in_power": "2021-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "46th president of the United States."
+    },
+    {
+      "name": "Justin Trudeau",
+      "country": "Canada",
+      "in_power_since": "2015",
+      "in_power": "2015-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Prime Minister of Canada, leading a liberal government."
+    },
+    {
+      "name": "Claudia Sheinbaum",
+      "country": "Mexico",
+      "in_power_since": "2024",
+      "in_power": "2024-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "First female president of Mexico."
+    },
+    {
+      "name": "Luiz Inácio Lula da Silva",
+      "country": "Brazil",
+      "in_power_since": "2023",
+      "in_power": "2023-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Returned to power after previous terms from 2003-2010."
+    },
+    {
+      "name": "Javier Milei",
+      "country": "Argentina",
+      "in_power_since": "2023",
+      "in_power": "2023-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Libertarian economist turned president."
+    },
+    {
+      "name": "Gabriel Boric",
+      "country": "Chile",
+      "in_power_since": "2022",
+      "in_power": "2022-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Youngest president in Chile's history."
+    },
+    {
+      "name": "Gustavo Petro",
+      "country": "Colombia",
+      "in_power_since": "2022",
+      "in_power": "2022-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "First leftist president in Colombia's modern history."
+    },
+    {
+      "name": "Dina Boluarte",
+      "country": "Peru",
+      "in_power_since": "2022",
+      "in_power": "2022-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "First female president of Peru."
+    },
+    {
+      "name": "Olaf Scholz",
+      "country": "Germany",
+      "in_power_since": "2021",
+      "in_power": "2021-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Chancellor leading a coalition government."
+    },
+    {
+      "name": "Emmanuel Macron",
+      "country": "France",
+      "in_power_since": "2017",
+      "in_power": "2017-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Centrist president elected on pro-EU platform."
+    },
+    {
+      "name": "Giorgia Meloni",
+      "country": "Italy",
+      "in_power_since": "2022",
+      "in_power": "2022-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "First female prime minister of Italy, leading right-wing coalition."
+    },
+    {
+      "name": "Keir Starmer",
+      "country": "United Kingdom",
+      "in_power_since": "2024",
+      "in_power": "2024-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Labour party leader who became Prime Minister after general election."
+    },
+    {
+      "name": "Pedro Sánchez",
+      "country": "Spain",
+      "in_power_since": "2018",
+      "in_power": "2018-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Prime Minister leading a coalition government."
+    },
+    {
+      "name": "Alexander De Croo",
+      "country": "Belgium",
+      "in_power_since": "2020",
+      "in_power": "2020-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Prime Minister leading a coalition government."
+    },
+    {
+      "name": "Ulf Kristersson",
+      "country": "Sweden",
+      "in_power_since": "2022",
+      "in_power": "2022-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Prime Minister leading a center-right coalition."
+    },
+    {
+      "name": "Fumio Kishida",
+      "country": "Japan",
+      "in_power_since": "2021",
+      "in_power": "2021-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Prime Minister from the Liberal Democratic Party."
+    },
+    {
+      "name": "Yoon Suk Yeol",
+      "country": "South Korea",
+      "in_power_since": "2022",
+      "in_power": "2022-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Conservative president elected in close race."
+    },
+    {
+      "name": "Narendra Modi",
+      "country": "India",
+      "in_power_since": "2014",
+      "in_power": "2014-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Prime Minister from the BJP party."
+    },
+    {
+      "name": "Paetongtarn Shinawatra",
+      "country": "Thailand",
+      "in_power_since": "2023",
+      "in_power": "2023-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Prime Minister from the Pheu Thai party."
+    },
+    {
+      "name": "Anwar Ibrahim",
+      "country": "Malaysia",
+      "in_power_since": "2022",
+      "in_power": "2022-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Long-time opposition leader who became Prime Minister."
+    },
+    {
+      "name": "Ferdinand Marcos Jr.",
+      "country": "Philippines",
+      "in_power_since": "2022",
+      "in_power": "2022-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Son of former dictator Ferdinand Marcos."
+    },
+    {
+      "name": "Anthony Albanese",
+      "country": "Australia",
+      "in_power_since": "2022",
+      "in_power": "2022-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Labor party prime minister."
+    },
+    {
+      "name": "Christopher Luxon",
+      "country": "New Zealand",
+      "in_power_since": "2023",
+      "in_power": "2023-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Prime Minister from the National Party."
+    },
+    {
+      "name": "Shehbaz Sharif",
+      "country": "Pakistan",
+      "in_power_since": "2022",
+      "in_power": "2022-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Prime Minister leading coalition government."
+    },
+    {
+      "name": "Isaac Herzog",
+      "country": "Israel",
+      "in_power_since": "2021",
+      "in_power": "2021-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "President in largely ceremonial role."
+    },
+    {
+      "name": "Volodymyr Zelenskyy",
+      "country": "Ukraine",
+      "in_power_since": "2019",
+      "in_power": "2019-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "Former actor who became president, leading Ukraine during war with Russia."
+    },
+    {
+      "name": "William Ruto",
+      "country": "Kenya",
+      "in_power_since": "2022",
+      "in_power": "2022-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "President elected in contested election."
+    },
+    {
+      "name": "Cyril Ramaphosa",
+      "country": "South Africa",
+      "in_power_since": "2018",
+      "in_power": "2018-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "President from the ANC party."
+    },
+    {
+      "name": "Bola Tinubu",
+      "country": "Nigeria",
+      "in_power_since": "2023",
+      "in_power": "2023-present",
+      "classification": "Democratic",
+      "status": "current",
+      "era": "21st_century",
+      "notes": "President elected in controversial election."
+    }
+  ]
+}
